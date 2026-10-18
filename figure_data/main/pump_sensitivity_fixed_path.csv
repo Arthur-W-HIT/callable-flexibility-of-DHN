@@ -1,103 +1,103 @@
 Case,PumpPriceMultiplier,NetGainAfterPump_CNY,method
-NoFlex,0.0,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,0.25,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,0.5,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,0.75,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,1.0,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,1.25,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,1.5,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,1.75,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,2.0,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,2.25,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,2.5,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,2.75,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,3.0,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,3.25,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,3.5,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,3.75,0.0,same inherited path repricing; not reoptimized at every multiplier
-NoFlex,4.0,0.0,same inherited path repricing; not reoptimized at every multiplier
-Step15min,0.0,56823.92551656479,same inherited path repricing; not reoptimized at every multiplier
-Step15min,0.25,56712.81647155821,same inherited path repricing; not reoptimized at every multiplier
-Step15min,0.5,56601.707426551635,same inherited path repricing; not reoptimized at every multiplier
-Step15min,0.75,56490.59838154506,same inherited path repricing; not reoptimized at every multiplier
-Step15min,1.0,56379.48933653848,same inherited path repricing; not reoptimized at every multiplier
-Step15min,1.25,56268.380291531896,same inherited path repricing; not reoptimized at every multiplier
-Step15min,1.5,56157.27124652532,same inherited path repricing; not reoptimized at every multiplier
-Step15min,1.75,56046.162201518746,same inherited path repricing; not reoptimized at every multiplier
-Step15min,2.0,55935.053156512164,same inherited path repricing; not reoptimized at every multiplier
-Step15min,2.25,55823.94411150558,same inherited path repricing; not reoptimized at every multiplier
-Step15min,2.5,55712.83506649901,same inherited path repricing; not reoptimized at every multiplier
-Step15min,2.75,55601.72602149243,same inherited path repricing; not reoptimized at every multiplier
-Step15min,3.0,55490.61697648585,same inherited path repricing; not reoptimized at every multiplier
-Step15min,3.25,55379.50793147927,same inherited path repricing; not reoptimized at every multiplier
-Step15min,3.5,55268.39888647269,same inherited path repricing; not reoptimized at every multiplier
-Step15min,3.75,55157.28984146612,same inherited path repricing; not reoptimized at every multiplier
-Step15min,4.0,55046.180796459535,same inherited path repricing; not reoptimized at every multiplier
-Step30min,0.0,53701.00815785434,same inherited path repricing; not reoptimized at every multiplier
-Step30min,0.25,53607.14512866551,same inherited path repricing; not reoptimized at every multiplier
-Step30min,0.5,53513.28209947668,same inherited path repricing; not reoptimized at every multiplier
-Step30min,0.75,53419.41907028785,same inherited path repricing; not reoptimized at every multiplier
-Step30min,1.0,53325.556041099015,same inherited path repricing; not reoptimized at every multiplier
-Step30min,1.25,53231.69301191018,same inherited path repricing; not reoptimized at every multiplier
-Step30min,1.5,53137.82998272135,same inherited path repricing; not reoptimized at every multiplier
-Step30min,1.75,53043.96695353252,same inherited path repricing; not reoptimized at every multiplier
-Step30min,2.0,52950.10392434369,same inherited path repricing; not reoptimized at every multiplier
-Step30min,2.25,52856.24089515486,same inherited path repricing; not reoptimized at every multiplier
-Step30min,2.5,52762.37786596603,same inherited path repricing; not reoptimized at every multiplier
-Step30min,2.75,52668.5148367772,same inherited path repricing; not reoptimized at every multiplier
-Step30min,3.0,52574.651807588365,same inherited path repricing; not reoptimized at every multiplier
-Step30min,3.25,52480.78877839953,same inherited path repricing; not reoptimized at every multiplier
-Step30min,3.5,52386.9257492107,same inherited path repricing; not reoptimized at every multiplier
-Step30min,3.75,52293.06272002187,same inherited path repricing; not reoptimized at every multiplier
-Step30min,4.0,52199.19969083304,same inherited path repricing; not reoptimized at every multiplier
-Step45min,0.0,49586.38849448989,same inherited path repricing; not reoptimized at every multiplier
-Step45min,0.25,49507.046445429965,same inherited path repricing; not reoptimized at every multiplier
-Step45min,0.5,49427.70439637004,same inherited path repricing; not reoptimized at every multiplier
-Step45min,0.75,49348.36234731012,same inherited path repricing; not reoptimized at every multiplier
-Step45min,1.0,49269.020298250194,same inherited path repricing; not reoptimized at every multiplier
-Step45min,1.25,49189.67824919027,same inherited path repricing; not reoptimized at every multiplier
-Step45min,1.5,49110.33620013035,same inherited path repricing; not reoptimized at every multiplier
-Step45min,1.75,49030.99415107042,same inherited path repricing; not reoptimized at every multiplier
-Step45min,2.0,48951.6521020105,same inherited path repricing; not reoptimized at every multiplier
-Step45min,2.25,48872.310052950575,same inherited path repricing; not reoptimized at every multiplier
-Step45min,2.5,48792.96800389065,same inherited path repricing; not reoptimized at every multiplier
-Step45min,2.75,48713.62595483073,same inherited path repricing; not reoptimized at every multiplier
-Step45min,3.0,48634.283905770804,same inherited path repricing; not reoptimized at every multiplier
-Step45min,3.25,48554.94185671088,same inherited path repricing; not reoptimized at every multiplier
-Step45min,3.5,48475.59980765096,same inherited path repricing; not reoptimized at every multiplier
-Step45min,3.75,48396.25775859103,same inherited path repricing; not reoptimized at every multiplier
-Step45min,4.0,48316.91570953111,same inherited path repricing; not reoptimized at every multiplier
-Step60min,0.0,46330.621501780515,same inherited path repricing; not reoptimized at every multiplier
-Step60min,0.25,46258.04355294884,same inherited path repricing; not reoptimized at every multiplier
-Step60min,0.5,46185.46560411717,same inherited path repricing; not reoptimized at every multiplier
-Step60min,0.75,46112.88765528549,same inherited path repricing; not reoptimized at every multiplier
-Step60min,1.0,46040.309706453816,same inherited path repricing; not reoptimized at every multiplier
-Step60min,1.25,45967.73175762214,same inherited path repricing; not reoptimized at every multiplier
-Step60min,1.5,45895.15380879046,same inherited path repricing; not reoptimized at every multiplier
-Step60min,1.75,45822.57585995879,same inherited path repricing; not reoptimized at every multiplier
-Step60min,2.0,45749.99791112712,same inherited path repricing; not reoptimized at every multiplier
-Step60min,2.25,45677.41996229544,same inherited path repricing; not reoptimized at every multiplier
-Step60min,2.5,45604.84201346377,same inherited path repricing; not reoptimized at every multiplier
-Step60min,2.75,45532.264064632094,same inherited path repricing; not reoptimized at every multiplier
-Step60min,3.0,45459.68611580042,same inherited path repricing; not reoptimized at every multiplier
-Step60min,3.25,45387.10816696874,same inherited path repricing; not reoptimized at every multiplier
-Step60min,3.5,45314.530218137064,same inherited path repricing; not reoptimized at every multiplier
-Step60min,3.75,45241.952269305395,same inherited path repricing; not reoptimized at every multiplier
-Step60min,4.0,45169.37432047372,same inherited path repricing; not reoptimized at every multiplier
-Step120min,0.0,30538.385008055815,same inherited path repricing; not reoptimized at every multiplier
-Step120min,0.25,30516.312647837214,same inherited path repricing; not reoptimized at every multiplier
-Step120min,0.5,30494.240287618613,same inherited path repricing; not reoptimized at every multiplier
-Step120min,0.75,30472.167927400013,same inherited path repricing; not reoptimized at every multiplier
-Step120min,1.0,30450.09556718141,same inherited path repricing; not reoptimized at every multiplier
-Step120min,1.25,30428.02320696281,same inherited path repricing; not reoptimized at every multiplier
-Step120min,1.5,30405.95084674421,same inherited path repricing; not reoptimized at every multiplier
-Step120min,1.75,30383.87848652561,same inherited path repricing; not reoptimized at every multiplier
-Step120min,2.0,30361.80612630701,same inherited path repricing; not reoptimized at every multiplier
-Step120min,2.25,30339.733766088408,same inherited path repricing; not reoptimized at every multiplier
-Step120min,2.5,30317.661405869807,same inherited path repricing; not reoptimized at every multiplier
-Step120min,2.75,30295.589045651206,same inherited path repricing; not reoptimized at every multiplier
-Step120min,3.0,30273.516685432605,same inherited path repricing; not reoptimized at every multiplier
-Step120min,3.25,30251.444325214004,same inherited path repricing; not reoptimized at every multiplier
-Step120min,3.5,30229.371964995404,same inherited path repricing; not reoptimized at every multiplier
-Step120min,3.75,30207.299604776803,same inherited path repricing; not reoptimized at every multiplier
-Step120min,4.0,30185.227244558202,same inherited path repricing; not reoptimized at every multiplier
+NoFlex,0.0,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,0.25,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,0.5,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,0.75,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,1.0,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,1.25,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,1.5,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,1.75,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,2.0,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,2.25,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,2.5,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,2.75,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,3.0,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,3.25,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,3.5,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,3.75,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+NoFlex,4.0,0.0,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,0.0,56885.14308647462,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,0.25,56781.736968430385,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,0.5,56678.33085038615,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,0.75,56574.92473234192,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,1.0,56471.51861429768,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,1.25,56368.112496253445,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,1.5,56264.706378209215,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,1.75,56161.30026016498,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,2.0,56057.89414212074,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,2.25,55954.488024076505,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,2.5,55851.08190603227,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,2.75,55747.67578798804,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,3.0,55644.2696699438,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,3.25,55540.863551899565,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,3.5,55437.457433855336,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,3.75,55334.0513158111,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step15min,4.0,55230.64519776686,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,0.0,53665.88305284653,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,0.25,53579.50016546168,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,0.5,53493.117278076825,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,0.75,53406.73439069198,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,1.0,53320.35150330712,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,1.25,53233.96861592227,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,1.5,53147.58572853742,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,1.75,53061.20284115257,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,2.0,52974.819953767714,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,2.25,52888.43706638286,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,2.5,52802.054178998005,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,2.75,52715.67129161316,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,3.0,52629.288404228304,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,3.25,52542.90551684345,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,3.5,52456.5226294586,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,3.75,52370.13974207375,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step30min,4.0,52283.756854688894,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,0.0,49586.388494489824,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,0.25,49513.80781755157,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,0.5,49441.22714061331,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,0.75,49368.646463675046,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,1.0,49296.06578673679,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,1.25,49223.48510979854,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,1.5,49150.904432860276,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,1.75,49078.323755922014,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,2.0,49005.74307898376,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,2.25,48933.162402045506,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,2.5,48860.581725107244,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,2.75,48788.00104816898,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,3.0,48715.42037123073,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,3.25,48642.839694292474,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,3.5,48570.25901735421,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,3.75,48497.67834041595,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step45min,4.0,48425.097663477696,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,0.0,46330.621501780646,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,0.25,46264.15573563298,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,0.5,46197.689969485305,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,0.75,46131.22420333764,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,1.0,46064.75843718997,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,1.25,45998.292671042305,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,1.5,45931.82690489464,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,1.75,45865.361138746965,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,2.0,45798.8953725993,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,2.25,45732.42960645163,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,2.5,45665.96384030396,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,2.75,45599.49807415629,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,3.0,45533.032308008624,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,3.25,45466.56654186096,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,3.5,45400.10077571329,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,3.75,45333.635009565616,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step60min,4.0,45267.16924341795,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,0.0,30195.64492386153,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,0.25,30178.548766843236,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,0.5,30161.45260982494,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,0.75,30144.356452806645,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,1.0,30127.26029578835,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,1.25,30110.164138770055,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,1.5,30093.06798175176,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,1.75,30075.971824733464,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,2.0,30058.87566771517,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,2.25,30041.779510696873,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,2.5,30024.683353678578,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,2.75,30007.587196660283,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,3.0,29990.491039641987,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,3.25,29973.394882623692,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,3.5,29956.298725605397,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,3.75,29939.2025685871,fixed inherited path; contemporaneous 15-minute prices; no reoptimization
+Step120min,4.0,29922.106411568806,fixed inherited path; contemporaneous 15-minute prices; no reoptimization

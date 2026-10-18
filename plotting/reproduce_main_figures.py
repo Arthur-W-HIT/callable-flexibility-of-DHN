@@ -27,6 +27,15 @@ for i,rec in enumerate(specs):
         if Path(stem).name=='corrected_power_boundary_80MWx5':
             ax=fig.axes[1];top=max(float(np.nanmax(np.asarray(l.get_ydata(),float))) for l in ax.lines if len(l.get_ydata()))
             if top>ax.get_ylim()[1]:ax.set_ylim(ax.get_ylim()[0],np.ceil(top/20)*20+20)
+        if Path(stem).name=='supply_temperature_cap_filter':
+            # Preserve the original layout; separate two inherited annotation collisions.
+            for text in fig.axes[1].texts:
+                if text.get_text()=='(b)':text.set_x(-.03)
+            for text in fig.axes[2].texts:
+                if text.get_text() in ['0.89','1.00']:
+                    x,y=text.get_position();text.set_position((x,y-.025))
+            # Leave space between the upper numeric label and the top frame.
+            fig.axes[2].set_ylim(0,1.10)
         fig.canvas.draw()
         kw['formats']=('png','pdf','svg')
         return _save(fig,stem,*a,**kw)

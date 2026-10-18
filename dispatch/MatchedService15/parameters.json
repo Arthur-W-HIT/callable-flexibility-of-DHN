@@ -11,8 +11,8 @@
   "solver": "scipy.optimize.milp/HiGHS, daily incumbent; no all-week global optimality claim",
   "time_limit_per_day_s": 120,
   "mip_relative_gap_target": 0.005,
-  "source": "source-file/dispatch_counterfactual.py",
-  "source_sha256": "e3cc608470c6712c79b12175d91a390e263e2aba41923ef663b339b97a316f3e",
+  "source": "project\\AE_Rebuild\\R1_Revision_20261008\\pump_price_20261018\\scripts\\milp_constraints.py",
+  "source_sha256": "2166ccd77b9ea776ead498a1dc0a3502b4f3fd114970ec3ce5671d0fcd79fc2f",
   "library_sha256": "9a03a747fa7b42132036e0cc0505735800a511a7e679c9b53c0595efafe70167",
   "economic_definition": "wear/quadratic plus exactly one pump proxy; actual pump reprice replaces proxy"
 }

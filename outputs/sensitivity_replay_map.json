@@ -1,0 +1,202 @@
+[
+  {
+    "case": "E8_pump_0_Service15",
+    "inherited": false,
+    "replay": "E8_pump_0_Service15"
+  },
+  {
+    "case": "E8_pump_0_Service15",
+    "inherited": true,
+    "replay": "Inherited_E8_pump_0_Service15"
+  },
+  {
+    "case": "E8_pump_0_Service120",
+    "inherited": false,
+    "replay": "E8_pump_0_Service120"
+  },
+  {
+    "case": "E8_pump_0_Service120",
+    "inherited": true,
+    "replay": "Inherited_E8_pump_0_Service120"
+  },
+  {
+    "case": "E8_pump_0p5_Service15",
+    "inherited": false,
+    "replay": "E8_pump_0p5_Service15"
+  },
+  {
+    "case": "E8_pump_0p5_Service15",
+    "inherited": true,
+    "replay": "Inherited_E8_pump_0p5_Service15"
+  },
+  {
+    "case": "E8_pump_0p5_Service120",
+    "inherited": false,
+    "replay": "E8_pump_0p5_Service120"
+  },
+  {
+    "case": "E8_pump_0p5_Service120",
+    "inherited": true,
+    "replay": "Inherited_E8_pump_0p5_Service120"
+  },
+  {
+    "case": "Service15",
+    "inherited": false,
+    "replay": "Service15"
+  },
+  {
+    "case": "Service15",
+    "inherited": true,
+    "replay": "Inherited_Service15"
+  },
+  {
+    "case": "Service120",
+    "inherited": false,
+    "replay": "Service120"
+  },
+  {
+    "case": "Service120",
+    "inherited": true,
+    "replay": "Inherited_Service120"
+  },
+  {
+    "case": "E8_pump_2_Service15",
+    "inherited": false,
+    "replay": "E8_pump_2_Service15"
+  },
+  {
+    "case": "E8_pump_2_Service15",
+    "inherited": true,
+    "replay": "Inherited_E8_pump_2_Service15"
+  },
+  {
+    "case": "E8_pump_2_Service120",
+    "inherited": false,
+    "replay": "E8_pump_2_Service120"
+  },
+  {
+    "case": "E8_pump_2_Service120",
+    "inherited": true,
+    "replay": "Inherited_E8_pump_2_Service120"
+  },
+  {
+    "case": "E8_fuel_0p8_Service15",
+    "inherited": false,
+    "replay": "E8_fuel_0p8_Service15"
+  },
+  {
+    "case": "E8_fuel_0p8_Service15",
+    "inherited": true,
+    "replay": "Inherited_E8_fuel_0p8_Service15"
+  },
+  {
+    "case": "E8_fuel_0p8_Service120",
+    "inherited": false,
+    "replay": "E8_fuel_0p8_Service120"
+  },
+  {
+    "case": "E8_fuel_0p8_Service120",
+    "inherited": true,
+    "replay": "Inherited_E8_fuel_0p8_Service120"
+  },
+  {
+    "case": "E8_fuel_1p2_Service15",
+    "inherited": false,
+    "replay": "E8_fuel_1p2_Service15"
+  },
+  {
+    "case": "E8_fuel_1p2_Service15",
+    "inherited": true,
+    "replay": "Inherited_E8_fuel_1p2_Service15"
+  },
+  {
+    "case": "E8_fuel_1p2_Service120",
+    "inherited": false,
+    "replay": "E8_fuel_1p2_Service120"
+  },
+  {
+    "case": "E8_fuel_1p2_Service120",
+    "inherited": true,
+    "replay": "Inherited_E8_fuel_1p2_Service120"
+  },
+  {
+    "case": "E8_price_0p5_Service15",
+    "inherited": false,
+    "replay": "E8_price_0p5_Service15"
+  },
+  {
+    "case": "E8_price_0p5_Service15",
+    "inherited": true,
+    "replay": "Inherited_E8_price_0p5_Service15"
+  },
+  {
+    "case": "E8_price_0p5_Service120",
+    "inherited": false,
+    "replay": "E8_price_0p5_Service120"
+  },
+  {
+    "case": "E8_price_0p5_Service120",
+    "inherited": true,
+    "replay": "Inherited_E8_price_0p5_Service120"
+  },
+  {
+    "case": "E8_price_1p5_Service15",
+    "inherited": false,
+    "replay": "E8_price_1p5_Service15"
+  },
+  {
+    "case": "E8_price_1p5_Service15",
+    "inherited": true,
+    "replay": "Inherited_E8_price_1p5_Service15"
+  },
+  {
+    "case": "E8_price_1p5_Service120",
+    "inherited": false,
+    "replay": "E8_price_1p5_Service120"
+  },
+  {
+    "case": "E8_price_1p5_Service120",
+    "inherited": true,
+    "replay": "Inherited_E8_price_1p5_Service120"
+  },
+  {
+    "case": "cold_week_Service15",
+    "inherited": false,
+    "replay": "cold_week_Service15"
+  },
+  {
+    "case": "cold_week_Service120",
+    "inherited": false,
+    "replay": "cold_week_Service120"
+  },
+  {
+    "case": "warm_week_Service15",
+    "inherited": false,
+    "replay": "warm_week_Service15"
+  },
+  {
+    "case": "warm_week_Service120",
+    "inherited": false,
+    "replay": "warm_week_Service120"
+  },
+  {
+    "case": "gradient_week_Service15",
+    "inherited": false,
+    "replay": "gradient_week_Service15"
+  },
+  {
+    "case": "gradient_week_Service120",
+    "inherited": false,
+    "replay": "gradient_week_Service120"
+  },
+  {
+    "case": "RhoResidual0p05",
+    "inherited": false,
+    "replay": "RhoResidual0p05"
+  },
+  {
+    "case": "RhoResidual0p2",
+    "inherited": false,
+    "replay": "RhoResidual0p2"
+  }
+]

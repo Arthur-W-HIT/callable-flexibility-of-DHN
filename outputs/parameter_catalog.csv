@@ -1,4 +1,4 @@
-﻿parameter,value,source,status
+parameter,value,source,status
 internal_step_min,15,configuration.json,adopted R1 experimental setting
 residual_after6h,0.1,configuration.json,adopted R1 experimental setting
 rho_15min,0.9085175756516868,configuration.json,adopted R1 experimental setting
@@ -15,7 +15,6 @@ parallel_subnetworks,5,configuration.json,adopted R1 experimental setting
 coalPrice_CNY_per_GJ,32,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
 AGC_availability_CNY_per_h,20,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
 AGC_energy_CNY_per_MWh,120,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
-auxElec_price_CNY_per_MWh,320,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
 pumpExtraMW_full,0.35,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
 wearCost_full,300,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
 flexQuadraticCost_full,2500,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
@@ -23,7 +22,8 @@ terminalTolerance,0.02,existing MATLAB config / explicit R1 controlled setting,f
 gammaUnder,0.1,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
 gammaOver,0.1,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
 actionRatioGrid,"[-0.2, -0.1, -0.05, 0, 0.05, 0.1, 0.2]",existing MATLAB config / explicit R1 controlled setting,fixed for comparison
-PositiveEnergyCapacity_maxScan_MWh,357.91120753884763,original Fig12 data,verified original comparator; new version recomputed after E1
-NegativeEnergyCapacity_maxScan_MWh,390.4763330407428,original Fig12 data,verified original comparator; new version recomputed after E1
-PositiveEnergyCapacity_longestDuration_MWh,194.30168127087413,original Fig12 data,verified original comparator; new version recomputed after E1
-NegativeEnergyCapacity_longestDuration_MWh,197.66817443046816,original Fig12 data,verified original comparator; new version recomputed after E1
+PositiveEnergyCapacity_maxScan_MWh,372.5532713649712,outputs/boundary_H6_floor16.csv,current revised-library comparator
+NegativeEnergyCapacity_maxScan_MWh,570.8666037770055,outputs/boundary_H6_floor16.csv,current revised-library comparator
+PositiveEnergyCapacity_longestDuration_MWh,196.2937364212917,outputs/boundary_H6_floor16.csv,current revised-library comparator
+NegativeEnergyCapacity_longestDuration_MWh,200.8289621538088,outputs/boundary_H6_floor16.csv,current revised-library comparator
+pump_price_rule,Price_CNY_per_MWh(t),inputs/main_week.csv and inputs/season.csv,time varying; multiplier applied once

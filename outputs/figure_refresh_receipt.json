@@ -1,0 +1,27 @@
+{
+  "complete": true,
+  "main_figures": [
+    {
+      "figure": 11,
+      "program": "plotting\\original_programs\\redraw_remaining_result_figures.py",
+      "program_sha256": "a2b629d3545605a033c59e36c9e03db764d8c1e57d17a7768996e9106c764028"
+    },
+    {
+      "figure": 12,
+      "program": "plotting\\original_programs\\run_supplement_figures.py",
+      "program_sha256": "5ed0a322652c2a3aef1bd3034a6f4d667f9295053dccb85c32de97fc9483cc67"
+    },
+    {
+      "figure": 13,
+      "program": "plotting\\original_programs\\redraw_remaining_result_figures.py",
+      "program_sha256": "a2b629d3545605a033c59e36c9e03db764d8c1e57d17a7768996e9106c764028"
+    },
+    {
+      "figure": 14,
+      "program": "plotting\\original_programs\\redraw_fig13_fullseason_three_panel.py",
+      "program_sha256": "5ea6beea6f69297e4f4939fe3058c580ab8b88370e6a9e10aecd5512f41742b0"
+    }
+  ],
+  "appendix_figure": "C.1",
+  "data_only_replacement": true
+}

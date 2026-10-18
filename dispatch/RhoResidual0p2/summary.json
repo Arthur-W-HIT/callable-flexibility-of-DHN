@@ -1,12 +1,12 @@
 {
-  "incremental_profit_with_proxy_CNY": 61647.368034386745,
+  "incremental_profit_with_proxy_CNY": 62195.103446228866,
   "state_recurrence_error_MW": 0.0,
-  "max_abs_state": 0.8978383818783939,
+  "max_abs_state": 0.8978383819555433,
   "max_terminal_relative_deviation": 0.007774557876216263,
   "max_rolling_under_ratio": 0.0645313474674606,
   "max_rolling_over_ratio": 0.0535578626490311,
-  "command_net_heat_difference_MWh": -1212.563368486187,
-  "active_steps": 546,
+  "command_net_heat_difference_MWh": -1222.5081920558325,
+  "active_steps": 548,
   "same_direction_max_duration_min": 180.0,
   "NoFlex_profit_CNY": 70486.48787966554,
   "case": "RhoResidual0p2",
@@ -25,7 +25,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0013151542212225217,
-      "value_at_grid_initial": 394044.12664406205
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 15,
+      "value_at_grid_initial": 394070.870975312
     },
     {
       "grid_points": 641,
@@ -41,7 +43,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.007774557876216263,
-      "value_at_grid_initial": 651795.8832004388
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 15,
+      "value_at_grid_initial": 651815.760706689
     },
     {
       "grid_points": 641,
@@ -56,8 +60,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.00485703309426904,
-      "value_at_grid_initial": -351434.64459942194
+      "terminal_relative_deviation": 0.005950189757757644,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 15,
+      "value_at_grid_initial": -351321.0533657044
     },
     {
       "grid_points": 641,
@@ -72,8 +78,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0037677608838572064,
-      "value_at_grid_initial": -743358.046775286
+      "terminal_relative_deviation": -0.003765978276725449,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 15,
+      "value_at_grid_initial": -743195.6645815357
     },
     {
       "grid_points": 641,
@@ -88,8 +96,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.005925522306866264,
-      "value_at_grid_initial": 256989.1219111005
+      "terminal_relative_deviation": -0.005925519386643235,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 17,
+      "value_at_grid_initial": 257062.0108071563
     },
     {
       "grid_points": 641,
@@ -104,8 +114,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.000799745095526289,
-      "value_at_grid_initial": -379402.0148183802
+      "terminal_relative_deviation": -0.0007997450901083398,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": -379303.20152775524
     },
     {
       "grid_points": 641,
@@ -120,11 +132,13 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.0024474359557685524,
-      "value_at_grid_initial": 303855.7427747006
+      "terminal_relative_deviation": 0.002447435955776545,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 15,
+      "value_at_grid_initial": 303919.6082590757
     }
   ],
-  "elapsed_s": 1.5159999998286366,
+  "elapsed_s": 1.9850000003352761,
   "day_count": 7,
   "needs_dynamic_replay": true,
   "heat_reference": "command proxy; actual source enthalpy and pump electricity reported separately after replay"

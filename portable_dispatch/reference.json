@@ -1,5 +1,6 @@
 {
-  "expected_proxy_gain_CNY": 5027.1759428814985,
-  "source": "source-file/summary.json",
-  "source_sha256": "56cbbf5c55cd484206d28914d3ec79cb80cdcd1ace497c654eea423de5b0788c"
+  "expected_proxy_gain_CNY": 5054.270274131442,
+  "source": "dispatch/Portable_TimePrice_Service15_Day1/summary.json",
+  "source_sha256": "73411210ff3976ef1726cfcf1ff72346f7a887fd7a53669abb2c3fcfa0c442fd",
+  "pump_price_rule": "contemporaneous Price_CNY_per_MWh"
 }

@@ -138,7 +138,7 @@
       "value_at_grid_initial": 298057.5005505102
     }
   ],
-  "elapsed_s": 1.3440000000409782,
+  "elapsed_s": 1.0469999997876585,
   "day_count": 7,
   "needs_dynamic_replay": true,
   "heat_reference": "command proxy; actual source enthalpy and pump electricity reported separately after replay"

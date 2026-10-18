@@ -1,11 +1,11 @@
 {
   "cfg": {
-    "projectDir": "source-file/Storage_Thermo_Theory",
-    "boundaryFile": "source-file/boundary_result_table_cap_corrected.csv",
-    "baselineFile": "source-file/fixed_supply_flow_baseline_1C.csv",
-    "weatherFile": "source-file/open-meteo-41.79N123.39E50m.csv",
-    "powerFile": "source-file/power_price_hourly_shanxi_20240108_0114.csv",
-    "regionFile": "source-file/feasible_region_P_Qh_v1.mat",
+    "projectDir": "project",
+    "boundaryFile": "project\\AE_Rebuild\\Boundary_FixedSupplyFlow_1C_CapRerun\\corrected\\boundary_result_table_cap_corrected.csv",
+    "baselineFile": "project\\AE_Rebuild\\Baseline_Operating_Line_FixedSupplyFlow_1C\\fixed_supply_flow_baseline_1C.csv",
+    "weatherFile": "C:\\Users\\WZH\\Downloads\\Web\\open-meteo-41.79N123.39E50m.csv",
+    "powerFile": "C:\\Users\\WZH\\D\\王中昊\\博士\\课题\\论文\\Paper#2\\04_实验\\0430_储能状态试验_一周_真实电价_双机平均_真实环温_热网匹配_逐天\\power_price_hourly_shanxi_20240108_0114.csv",
+    "regionFile": "C:\\Users\\WZH\\D\\王中昊\\博士\\课题\\论文\\Paper#2\\04_实验\\0430_储能状态试验_一周_真实电价_双机平均_真实环温_热网匹配_逐天\\feasible_region_P_Qh_v1.mat",
     "cityName": "Shenyang",
     "weatherTargetStart": "2025-01-08 00:00:00",
     "nDay": 7,
@@ -52,7 +52,6 @@
     "coalPrice_CNY_per_GJ": 32,
     "AGC_availability_CNY_per_h": 20,
     "AGC_energy_CNY_per_MWh": 120,
-    "auxElec_price_CNY_per_MWh": 320,
     "pumpExtraMW_full": 0.35,
     "wearCost_full": 300,
     "flexQuadraticCost_full": 2500,
@@ -185,5 +184,6 @@
     ],
     "Qh_min": 0,
     "Qh_max": 523.4724444444444
-  }
+  },
+  "pump_price_rule": "Price_CNY_per_MWh at the contemporaneous internal interval; pump multiplier applied once"
 }

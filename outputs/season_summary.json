@@ -2,13 +2,15 @@
   "days": 112,
   "steps": 10752,
   "N": 5,
-  "pumps": 10,
-  "NoFlex_pump_MWh": 4094.0727153185235,
-  "Service15_pump_MWh": 7731.323752221537,
-  "incremental_pump_MWh": 3637.2510369030133,
+  "pumps_per_subnetwork": 10,
+  "NoFlex_pump_MWh": 4094.072715318524,
+  "Service15_pump_MWh": 7731.331041908658,
+  "incremental_pump_MWh": 3637.2583265901344,
   "NoFlex_heat_MWh": 719254.715242751,
-  "Service15_heat_MWh": 701202.0995316466,
-  "service_min_room_C": 17.356525522578977,
-  "state_bounds_verified": true,
-  "original_archived_period": "112days, original prescribed price series retained"
+  "Service15_heat_MWh": 701194.4867174303,
+  "net_gain_CNY": 297013.61841389537,
+  "service_min_room_C": 17.354903384371028,
+  "active_intervals": 8397,
+  "max_abs_state": 0.8999921330411058,
+  "pump_price_rule": "contemporaneous 15-minute price"
 }

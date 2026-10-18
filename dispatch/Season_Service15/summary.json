@@ -1,12 +1,12 @@
 {
-  "incremental_profit_with_proxy_CNY": 1827016.3650889397,
+  "incremental_profit_with_proxy_CNY": 1824695.5523220599,
   "state_recurrence_error_MW": 0.0,
-  "max_abs_state": 0.8997943872547984,
-  "max_terminal_relative_deviation": 0.019993372171695528,
+  "max_abs_state": 0.8999921330411058,
+  "max_terminal_relative_deviation": 0.01991779806390499,
   "max_rolling_under_ratio": 0.06080570429361389,
   "max_rolling_over_ratio": 0.0899090463101593,
-  "command_net_heat_difference_MWh": -14050.880078655973,
-  "active_steps": 8380,
+  "command_net_heat_difference_MWh": -14071.31524340994,
+  "active_steps": 8397,
   "same_direction_max_duration_min": 180.0,
   "NoFlex_profit_CNY": 164777170.0608678,
   "case": "Season_Service15",
@@ -25,7 +25,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.003663589212404445,
-      "value_at_grid_initial": -1399271.3111490605
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -1399035.735074061
     },
     {
       "grid_points": 641,
@@ -41,7 +43,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0032763280833272,
-      "value_at_grid_initial": -743004.9329147064
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -742851.2323397065
     },
     {
       "grid_points": 641,
@@ -57,7 +61,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.009865065260787355,
-      "value_at_grid_initial": 4009468.0111775096
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 4009297.111427512
     },
     {
       "grid_points": 641,
@@ -73,7 +79,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0009937039054615695,
-      "value_at_grid_initial": -65374.75112730499
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -65294.06037730501
     },
     {
       "grid_points": 641,
@@ -89,7 +97,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.0005175482900283019,
-      "value_at_grid_initial": 392848.5935634645
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 392890.15807596437
     },
     {
       "grid_points": 641,
@@ -105,7 +115,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.0021183277024922967,
-      "value_at_grid_initial": -3110626.7326553673
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -3110245.8217053683
     },
     {
       "grid_points": 641,
@@ -121,7 +133,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.009208602073835575,
-      "value_at_grid_initial": 437524.9924693326
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 437653.75484433334
     },
     {
       "grid_points": 641,
@@ -137,7 +151,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.007377182238118088,
-      "value_at_grid_initial": 2270150.5071271406
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 10,
+      "value_at_grid_initial": 2270063.813702143
     },
     {
       "grid_points": 641,
@@ -152,8 +168,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.005502054716842718,
-      "value_at_grid_initial": 843845.6666043194
+      "terminal_relative_deviation": 0.007358823665222728,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 9,
+      "value_at_grid_initial": 843840.8286828329
     },
     {
       "grid_points": 641,
@@ -168,8 +186,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.01667351239685592,
-      "value_at_grid_initial": -1574161.476195181
+      "terminal_relative_deviation": 0.01667434378635347,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -1573963.1113913304
     },
     {
       "grid_points": 641,
@@ -184,8 +204,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.006857180882726596,
-      "value_at_grid_initial": -3059430.055899651
+      "terminal_relative_deviation": 0.006857180964710566,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -3059074.3154621506
     },
     {
       "grid_points": 641,
@@ -200,8 +222,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0006806704005324466,
-      "value_at_grid_initial": -364801.37608201284
+      "terminal_relative_deviation": -0.0006806704005240563,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -364667.6578820129
     },
     {
       "grid_points": 641,
@@ -217,7 +241,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0022261017625958496,
-      "value_at_grid_initial": -701816.3208676949
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -701664.526392695
     },
     {
       "grid_points": 641,
@@ -232,8 +258,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.0030237579534757838,
-      "value_at_grid_initial": -791387.0530181697
+      "terminal_relative_deviation": 0.0028854019750154244,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": -791238.2374158968
     },
     {
       "grid_points": 641,
@@ -248,8 +276,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0009823781576100631,
-      "value_at_grid_initial": 257899.1583318538
+      "terminal_relative_deviation": -0.000982393095839629,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 257946.14136935375
     },
     {
       "grid_points": 641,
@@ -264,8 +294,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.012576492473287322,
-      "value_at_grid_initial": 1148838.7334277336
+      "terminal_relative_deviation": -0.014327875248116363,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 1148854.5529406383
     },
     {
       "grid_points": 641,
@@ -280,8 +312,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.00021382586993445957,
-      "value_at_grid_initial": -193736.36133351873
+      "terminal_relative_deviation": 0.0029308533170902514,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -193624.7979537856
     },
     {
       "grid_points": 641,
@@ -296,8 +330,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.00039296916950349225,
-      "value_at_grid_initial": -506781.4723778125
+      "terminal_relative_deviation": -0.000392640471669089,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -506655.6705653125
     },
     {
       "grid_points": 641,
@@ -312,8 +348,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.012280460531866245,
-      "value_at_grid_initial": -1609257.8294287745
+      "terminal_relative_deviation": 0.012280460564301545,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -1609022.4468162747
     },
     {
       "grid_points": 641,
@@ -328,8 +366,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.018803945779592806,
-      "value_at_grid_initial": -2564188.78992559
+      "terminal_relative_deviation": 0.01880394577959587,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -2563859.1256255913
     },
     {
       "grid_points": 641,
@@ -345,7 +385,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.008157248253544124,
-      "value_at_grid_initial": -2162057.6378154624
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -2161752.952140462
     },
     {
       "grid_points": 641,
@@ -361,7 +403,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.0007620552821499727,
-      "value_at_grid_initial": -562595.0923442179
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -562452.0819942178
     },
     {
       "grid_points": 641,
@@ -376,8 +420,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.002765010966107776,
-      "value_at_grid_initial": 1347340.686051512
+      "terminal_relative_deviation": 0.0006383824522048088,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 1347310.8688003672
     },
     {
       "grid_points": 641,
@@ -392,24 +438,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.005179989726332331,
-      "value_at_grid_initial": 1073539.8944047932
-    },
-    {
-      "grid_points": 1281,
-      "action_grid": [
-        -0.2,
-        -0.1,
-        -0.05,
-        0.0,
-        0.05,
-        0.1,
-        0.2
-      ],
-      "daily_decisions": 96,
-      "run_states": 49,
-      "terminal_relative_deviation": -0.01915800247145285,
-      "value_at_grid_initial": 10650358.745072542
+      "terminal_relative_deviation": -0.005180196153958656,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 1073525.035417293
     },
     {
       "grid_points": 641,
@@ -424,8 +456,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.010279909630389335,
-      "value_at_grid_initial": 1512986.923619162
+      "terminal_relative_deviation": 0.01962283068896017,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 10649869.00987924
     },
     {
       "grid_points": 641,
@@ -440,8 +474,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.013238730410225323,
-      "value_at_grid_initial": 7112816.317781329
+      "terminal_relative_deviation": -0.007561714977013872,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 1512948.9318946784
     },
     {
       "grid_points": 641,
@@ -456,8 +492,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.016861755082305706,
-      "value_at_grid_initial": 11647352.211558914
+      "terminal_relative_deviation": -0.01323846993627314,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 7112462.381506324
     },
     {
       "grid_points": 641,
@@ -472,8 +510,28 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.015487202869774485,
-      "value_at_grid_initial": 7871355.59202211
+      "terminal_relative_deviation": -0.016861755054449697,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 11646733.628033908
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.015487202869771554,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 7870968.78742211
     },
     {
       "grid_points": 641,
@@ -489,7 +547,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.00935127915241909,
-      "value_at_grid_initial": 5406035.401291085
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 5405772.888953587
     },
     {
       "grid_points": 641,
@@ -505,7 +565,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.014269508645170292,
-      "value_at_grid_initial": 12990395.449333409
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 12989698.063745905
     },
     {
       "grid_points": 641,
@@ -521,7 +583,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.0015646449953698272,
-      "value_at_grid_initial": 5043618.776854439
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 5043377.346154441
     },
     {
       "grid_points": 641,
@@ -537,7 +601,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0014824203533095916,
-      "value_at_grid_initial": 977257.6944526718
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 977274.2043026717
     },
     {
       "grid_points": 641,
@@ -553,7 +619,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0051038712788070645,
-      "value_at_grid_initial": 1235956.8730213933
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 1235939.847271393
     },
     {
       "grid_points": 641,
@@ -569,7 +637,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.005609807303704965,
-      "value_at_grid_initial": 4254688.230865886
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 4254484.5404033875
     },
     {
       "grid_points": 641,
@@ -585,7 +655,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.009282083768066024,
-      "value_at_grid_initial": 8024408.3765841285
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 8023995.038134129
     },
     {
       "grid_points": 641,
@@ -601,7 +673,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.005012279968049936,
-      "value_at_grid_initial": 3157950.6807013266
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 3157816.199413828
     },
     {
       "grid_points": 641,
@@ -617,7 +691,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.007496032829129854,
-      "value_at_grid_initial": -278674.3530304015
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -278556.65415540175
     },
     {
       "grid_points": 641,
@@ -633,7 +709,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.005417134336187682,
-      "value_at_grid_initial": 1035264.0192189951
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 1035277.9507939945
     },
     {
       "grid_points": 641,
@@ -649,23 +727,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.01439056926496926,
-      "value_at_grid_initial": 7535489.866689157
-    },
-    {
-      "grid_points": 1281,
-      "action_grid": [
-        -0.2,
-        -0.1,
-        -0.05,
-        0.0,
-        0.05,
-        0.1,
-        0.2
-      ],
-      "daily_decisions": 96,
-      "run_states": 49,
-      "terminal_relative_deviation": -0.012003715825703158,
-      "value_at_grid_initial": 5428101.822072337
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 7535090.793101657
     },
     {
       "grid_points": 641,
@@ -680,8 +744,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.00035067432091430407,
-      "value_at_grid_initial": 8339876.519786507
+      "terminal_relative_deviation": -0.017624355251138243,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 5427843.435827122
     },
     {
       "grid_points": 641,
@@ -696,8 +762,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.01883312108267504,
-      "value_at_grid_initial": 2363635.4338012706
+      "terminal_relative_deviation": -0.00035127875514934486,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 8339450.415961513
     },
     {
       "grid_points": 641,
@@ -712,8 +780,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 6.358199383663457e-05,
-      "value_at_grid_initial": -858950.8192228212
+      "terminal_relative_deviation": -0.018833121152456788,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 2363546.5051012705
     },
     {
       "grid_points": 641,
@@ -728,8 +798,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.004411521966248836,
-      "value_at_grid_initial": 1006680.7394540152
+      "terminal_relative_deviation": 0.0001186640758218004,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -858777.4290407733
     },
     {
       "grid_points": 641,
@@ -744,8 +816,28 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0006454805074513131,
-      "value_at_grid_initial": -359012.15502654755
+      "terminal_relative_deviation": -0.004411516253143317,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 1006690.6795415153
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0006454805069145565,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -358904.70581404725
     },
     {
       "grid_points": 641,
@@ -761,7 +853,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0015681804060384502,
-      "value_at_grid_initial": -1153412.9332985643
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -1153206.3946235643
     },
     {
       "grid_points": 641,
@@ -777,7 +871,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0008572714225266249,
-      "value_at_grid_initial": -629331.586395475
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -629180.9715954752
     },
     {
       "grid_points": 641,
@@ -792,8 +888,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0020867849879219447,
-      "value_at_grid_initial": -704302.0519903108
+      "terminal_relative_deviation": -0.0020669591668055886,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -704140.3579974342
     },
     {
       "grid_points": 641,
@@ -808,8 +906,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.0029733803158328185,
-      "value_at_grid_initial": -610122.5325095304
+      "terminal_relative_deviation": 0.0029733820669578317,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -609981.6643345305
     },
     {
       "grid_points": 641,
@@ -824,8 +924,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.01863134552670487,
-      "value_at_grid_initial": -18691.818281357133
+      "terminal_relative_deviation": -0.018631345526533616,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -18603.25944385706
     },
     {
       "grid_points": 641,
@@ -840,8 +942,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.0024713109044286787,
-      "value_at_grid_initial": 1120848.7241299134
+      "terminal_relative_deviation": 0.0019631570498388077,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 1120824.209868465
     },
     {
       "grid_points": 641,
@@ -856,8 +960,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0029757222185205646,
-      "value_at_grid_initial": 397494.7748325325
+      "terminal_relative_deviation": -0.0029757680612187533,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 397519.4131700324
     },
     {
       "grid_points": 641,
@@ -872,8 +978,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0027333409777806766,
-      "value_at_grid_initial": 652454.457955074
+      "terminal_relative_deviation": -0.0027333409824377075,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 652472.6726550743
     },
     {
       "grid_points": 641,
@@ -888,8 +996,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.002015483281629151,
-      "value_at_grid_initial": -348747.5342521941
+      "terminal_relative_deviation": 0.0020154832816285722,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -348625.65733969404
     },
     {
       "grid_points": 641,
@@ -905,7 +1015,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0010350479931739767,
-      "value_at_grid_initial": -741825.3688367823
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -741651.2321117821
     },
     {
       "grid_points": 641,
@@ -921,7 +1033,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.013443246489591965,
-      "value_at_grid_initial": 257568.43014644357
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 257647.0986839436
     },
     {
       "grid_points": 641,
@@ -937,7 +1051,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.003135456174911829,
-      "value_at_grid_initial": -377181.6673696143
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -377071.7878446147
     },
     {
       "grid_points": 641,
@@ -953,7 +1069,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.003277655823439042,
-      "value_at_grid_initial": 303646.71992675884
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 303710.7502392586
     },
     {
       "grid_points": 641,
@@ -969,7 +1087,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.011451732736140892,
-      "value_at_grid_initial": 1426994.6014060525
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 1426956.2072810528
     },
     {
       "grid_points": 641,
@@ -985,7 +1105,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.008158939930126076,
-      "value_at_grid_initial": 5115212.8087542895
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 5114970.877379286
     },
     {
       "grid_points": 641,
@@ -1001,7 +1123,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.007389726032408126,
-      "value_at_grid_initial": 4380967.57608356
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 4380765.078158562
     },
     {
       "grid_points": 641,
@@ -1017,23 +1141,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.00027365101007665406,
-      "value_at_grid_initial": 2754394.310758278
-    },
-    {
-      "grid_points": 1281,
-      "action_grid": [
-        -0.2,
-        -0.1,
-        -0.05,
-        0.0,
-        0.05,
-        0.1,
-        0.2
-      ],
-      "daily_decisions": 96,
-      "run_states": 49,
-      "terminal_relative_deviation": -0.007289739838536541,
-      "value_at_grid_initial": 3698086.5327687366
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 2754286.8360832776
     },
     {
       "grid_points": 641,
@@ -1048,8 +1158,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.00534939355063316,
-      "value_at_grid_initial": 2088466.9824756398
+      "terminal_relative_deviation": 0.004649724908375344,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 3697941.130477483
     },
     {
       "grid_points": 641,
@@ -1064,8 +1176,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.006331182102124006,
-      "value_at_grid_initial": -365771.4633806502
+      "terminal_relative_deviation": -0.0053481995939897425,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 2088390.2465506387
     },
     {
       "grid_points": 641,
@@ -1080,8 +1194,28 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.007249314037178473,
-      "value_at_grid_initial": 1619902.5054985469
+      "terminal_relative_deviation": -0.006331181989376169,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -365643.6922056505
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.007249314037167964,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 1619887.089573547
     },
     {
       "grid_points": 641,
@@ -1097,7 +1231,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0035117044838238686,
-      "value_at_grid_initial": -30839.92191242775
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -30744.05638742783
     },
     {
       "grid_points": 641,
@@ -1113,7 +1249,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.004684203983603813,
-      "value_at_grid_initial": 2113797.416605055
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 2113722.881480055
     },
     {
       "grid_points": 641,
@@ -1129,7 +1267,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0033470316066704186,
-      "value_at_grid_initial": -186364.7214712365
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -186256.5755837366
     },
     {
       "grid_points": 641,
@@ -1145,7 +1285,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0030401290931689998,
-      "value_at_grid_initial": 695245.482424911
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 695262.467137411
     },
     {
       "grid_points": 641,
@@ -1161,7 +1303,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.005288227136178976,
-      "value_at_grid_initial": -411110.26269209146
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -410970.2347795913
     },
     {
       "grid_points": 641,
@@ -1177,7 +1321,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.002476305488448489,
-      "value_at_grid_initial": 1017448.1935281758
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 1017489.3669156755
     },
     {
       "grid_points": 641,
@@ -1193,10 +1339,12 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.006403962651346427,
-      "value_at_grid_initial": 1028184.2392629161
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": 1028206.6463504164
     },
     {
-      "grid_points": 1281,
+      "grid_points": 641,
       "action_grid": [
         -0.2,
         -0.1,
@@ -1209,7 +1357,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.01884965753308221,
-      "value_at_grid_initial": 468648.93139637745
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 468690.25204637746
     },
     {
       "grid_points": 641,
@@ -1225,6 +1375,8 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 1.945229229518846e-06,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
       "value_at_grid_initial": 1743987.9835638728
     },
     {
@@ -1241,6 +1393,8 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 1.972952555699679e-10,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
       "value_at_grid_initial": 3147258.63225324
     },
     {
@@ -1257,6 +1411,8 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 2.05139725781834e-14,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
       "value_at_grid_initial": 2486529.1006645276
     },
     {
@@ -1273,6 +1429,8 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 1.0004900588196212e-17,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
       "value_at_grid_initial": 1634730.3132864942
     },
     {
@@ -1289,6 +1447,8 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 2.0093212802539865e-16,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
       "value_at_grid_initial": 1665790.1207958732
     },
     {
@@ -1305,6 +1465,8 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -6.506162460659452e-17,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
       "value_at_grid_initial": 2104901.187091682
     },
     {
@@ -1321,23 +1483,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.004853158532214751,
-      "value_at_grid_initial": 1110524.48365079
-    },
-    {
-      "grid_points": 5121,
-      "action_grid": [
-        -0.2,
-        -0.1,
-        -0.05,
-        0.0,
-        0.05,
-        0.1,
-        0.2
-      ],
-      "daily_decisions": 96,
-      "run_states": 49,
-      "terminal_relative_deviation": 0.019993372171695528,
-      "value_at_grid_initial": 685649.345147574
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 9,
+      "value_at_grid_initial": 1110529.35617579
     },
     {
       "grid_points": 641,
@@ -1352,24 +1500,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.00039137063095239606,
-      "value_at_grid_initial": -305802.21349804825
-    },
-    {
-      "grid_points": 2561,
-      "action_grid": [
-        -0.2,
-        -0.1,
-        -0.05,
-        0.0,
-        0.05,
-        0.1,
-        0.2
-      ],
-      "daily_decisions": 96,
-      "run_states": 49,
-      "terminal_relative_deviation": 0.01906427134556972,
-      "value_at_grid_initial": -2323831.7439620136
+      "terminal_relative_deviation": 0.018625364730299215,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 9,
+      "value_at_grid_initial": 685633.5569728891
     },
     {
       "grid_points": 641,
@@ -1384,8 +1518,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.014577561609788183,
-      "value_at_grid_initial": -1918182.242323135
+      "terminal_relative_deviation": 0.00039123795769435547,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -305691.7929605481
     },
     {
       "grid_points": 641,
@@ -1400,8 +1536,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0023682423477148027,
-      "value_at_grid_initial": -1736600.3354118206
+      "terminal_relative_deviation": 0.017225431729441916,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": -2323569.2869369527
     },
     {
       "grid_points": 641,
@@ -1416,8 +1554,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.0020753387182805955,
-      "value_at_grid_initial": -3074634.0396347367
+      "terminal_relative_deviation": -0.0018196745899704452,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -1917952.215935886
     },
     {
       "grid_points": 641,
@@ -1432,8 +1572,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.008285492272680852,
-      "value_at_grid_initial": -1509865.9754392318
+      "terminal_relative_deviation": -0.003036025618877199,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": -1736335.5131618201
     },
     {
       "grid_points": 641,
@@ -1448,8 +1590,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.002991808329842481,
-      "value_at_grid_initial": -297010.6704860459
+      "terminal_relative_deviation": 0.0015077663435246285,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -3074276.4959972375
     },
     {
       "grid_points": 641,
@@ -1464,8 +1608,46 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -6.219542108450645e-05,
-      "value_at_grid_initial": -1927080.35494361
+      "terminal_relative_deviation": -0.008285552641332504,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -1509610.525839232
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0029918083367550755,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -296887.54223604617
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -6.219542108541797e-05,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -1926797.8716936102
     },
     {
       "grid_points": 641,
@@ -1481,7 +1663,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.014950269141640306,
-      "value_at_grid_initial": -2837954.74872067
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -2837590.893183171
     },
     {
       "grid_points": 641,
@@ -1497,7 +1681,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.01125850326379421,
-      "value_at_grid_initial": -2273429.568339333
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -2273137.636576833
     },
     {
       "grid_points": 641,
@@ -1513,7 +1699,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.00033426838314827036,
-      "value_at_grid_initial": 694075.8443387954
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 694096.9951887948
     },
     {
       "grid_points": 641,
@@ -1529,7 +1717,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.0030925101648111544,
-      "value_at_grid_initial": 3345219.1736166156
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 3345073.1059291153
     },
     {
       "grid_points": 641,
@@ -1545,7 +1735,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": 0.0014235626929846215,
-      "value_at_grid_initial": 8055155.50479628
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 8054737.61389628
     },
     {
       "grid_points": 641,
@@ -1560,8 +1752,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.0010600115255099908,
-      "value_at_grid_initial": 3060312.2216135976
+      "terminal_relative_deviation": -0.002963269084910783,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 3060181.547528242
     },
     {
       "grid_points": 641,
@@ -1576,8 +1770,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.0007611801870736813,
-      "value_at_grid_initial": 2948573.0821289765
+      "terminal_relative_deviation": -0.0007615782784341198,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 2948455.0308914757
     },
     {
       "grid_points": 641,
@@ -1592,8 +1788,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.01515023277421008,
-      "value_at_grid_initial": 4640812.242083905
+      "terminal_relative_deviation": -0.015150232815639073,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 4640586.981383904
     },
     {
       "grid_points": 641,
@@ -1608,8 +1806,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.008515976102219885,
-      "value_at_grid_initial": 1685768.241396787
+      "terminal_relative_deviation": -0.008515976102225159,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 1685715.5770717876
     },
     {
       "grid_points": 641,
@@ -1625,7 +1825,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.008860085427850259,
-      "value_at_grid_initial": 207153.88222175077
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 207241.136696751
     },
     {
       "grid_points": 641,
@@ -1641,7 +1843,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.009539085685122883,
-      "value_at_grid_initial": 764726.538798871
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 764734.9190238712
     },
     {
       "grid_points": 641,
@@ -1657,23 +1861,9 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.004194167759848579,
-      "value_at_grid_initial": 1819488.6396171495
-    },
-    {
-      "grid_points": 1281,
-      "action_grid": [
-        -0.2,
-        -0.1,
-        -0.05,
-        0.0,
-        0.05,
-        0.1,
-        0.2
-      ],
-      "daily_decisions": 96,
-      "run_states": 49,
-      "terminal_relative_deviation": -0.005408112963237694,
-      "value_at_grid_initial": 2402552.316332912
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 9,
+      "value_at_grid_initial": 1819431.633892151
     },
     {
       "grid_points": 641,
@@ -1688,8 +1878,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.0014646911973107072,
-      "value_at_grid_initial": -774691.3938633335
+      "terminal_relative_deviation": -0.01872990063640458,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 8,
+      "value_at_grid_initial": 2402471.6196642327
     },
     {
       "grid_points": 641,
@@ -1704,8 +1896,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.001126457710876974,
-      "value_at_grid_initial": -1696055.6275678952
+      "terminal_relative_deviation": 0.0014636991881164998,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -774593.7876133331
     },
     {
       "grid_points": 641,
@@ -1720,24 +1914,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.012714011220004758,
-      "value_at_grid_initial": 390869.0818616084
-    },
-    {
-      "grid_points": 1281,
-      "action_grid": [
-        -0.2,
-        -0.1,
-        -0.05,
-        0.0,
-        0.05,
-        0.1,
-        0.2
-      ],
-      "daily_decisions": 96,
-      "run_states": 49,
-      "terminal_relative_deviation": -0.017639422525030937,
-      "value_at_grid_initial": 8597126.392044766
+      "terminal_relative_deviation": -0.0013582681731151279,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 14,
+      "value_at_grid_initial": -1695796.4520428951
     },
     {
       "grid_points": 641,
@@ -1752,8 +1932,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": 0.001844349747280059,
-      "value_at_grid_initial": 9136529.44978035
+      "terminal_relative_deviation": -0.012714036106718108,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 390934.45136160863
     },
     {
       "grid_points": 641,
@@ -1768,8 +1950,10 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.004541696795022768,
-      "value_at_grid_initial": 4537259.966640859
+      "terminal_relative_deviation": 0.01991779806390499,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 12,
+      "value_at_grid_initial": 8596681.044176942
     },
     {
       "grid_points": 641,
@@ -1784,8 +1968,46 @@
       ],
       "daily_decisions": 96,
       "run_states": 49,
-      "terminal_relative_deviation": -0.001022593646087149,
-      "value_at_grid_initial": -876623.4875122517
+      "terminal_relative_deviation": 0.0018481299616721733,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 9136081.075980352
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.004541696417822994,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": 4537053.411428358
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0010225936460458874,
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 13,
+      "value_at_grid_initial": -876478.977324752
     },
     {
       "grid_points": 641,
@@ -1801,10 +2023,12 @@
       "daily_decisions": 96,
       "run_states": 49,
       "terminal_relative_deviation": -0.007498321998331164,
-      "value_at_grid_initial": 1260987.8232150448
+      "exact_feasibility_intervals": true,
+      "max_interval_count": 10,
+      "value_at_grid_initial": 1260986.1299150453
     }
   ],
-  "elapsed_s": 30.82800000021234,
+  "elapsed_s": 31.42200000025332,
   "day_count": 112,
   "needs_dynamic_replay": true,
   "heat_reference": "command proxy; actual source enthalpy and pump electricity reported separately after replay"

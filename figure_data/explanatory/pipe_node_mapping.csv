@@ -1,4 +1,4 @@
-﻿pipe,from_node,to_node,model_port_a,model_port_b
+pipe,from_node,to_node,model_port_a,model_port_b
 PS_1,热源,J1,PS_1.port_a,PS_1.port_b
 PS_4,J1,B1,PS_4.port_a,PS_4.port_b
 PS_8,J1,J2,PS_8.port_a,PS_8.port_b

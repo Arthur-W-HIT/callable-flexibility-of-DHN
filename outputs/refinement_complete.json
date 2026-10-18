@@ -1,0 +1,62 @@
+{
+  "complete": true,
+  "results": [
+    {
+      "actions": 193,
+      "hold_min": 15,
+      "gain": 84018.30345520287,
+      "elapsed_s": 51.217999999877065
+    },
+    {
+      "actions": 193,
+      "hold_min": 120,
+      "gain": 52537.26850753045,
+      "elapsed_s": 24.32800000021234
+    },
+    {
+      "actions": 385,
+      "hold_min": 15,
+      "gain": 84600.68772028896,
+      "elapsed_s": 102.71900000004098
+    },
+    {
+      "actions": 385,
+      "hold_min": 120,
+      "gain": 52938.727218909684,
+      "elapsed_s": 48.70299999974668
+    },
+    {
+      "actions": 385,
+      "hold_min": 15,
+      "days": 1,
+      "grid": 641,
+      "gain": 5540.260634688544,
+      "elapsed_s": 14.25
+    },
+    {
+      "actions": 385,
+      "hold_min": 15,
+      "days": 1,
+      "grid": 1281,
+      "gain": 5538.35919584654,
+      "elapsed_s": 25.57800000021234
+    },
+    {
+      "actions": 385,
+      "hold_min": 120,
+      "days": 1,
+      "grid": 641,
+      "gain": 3522.6556080169976,
+      "elapsed_s": 6.969000000040978
+    },
+    {
+      "actions": 385,
+      "hold_min": 120,
+      "days": 1,
+      "grid": 1281,
+      "gain": 3522.6556080169976,
+      "elapsed_s": 12.358999999705702
+    }
+  ],
+  "scope": "Successive fine-grid changes; no error bound for the seven-action catalog."
+}

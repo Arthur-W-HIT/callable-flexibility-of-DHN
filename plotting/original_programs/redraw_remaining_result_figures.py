@@ -517,7 +517,7 @@ def redraw_pump_cost_and_sensitivity() -> list[Path]:
     add_panel_label(ax, "(a)")
 
     ax = axes[1]
-    for case in STEP_CASES[:-1]:
+    for case in STEP_CASES:
         s = sensitivity[sensitivity["Case"].eq(case)].sort_values("PumpPriceMultiplier")
         if s.empty:
             continue

@@ -41,7 +41,7 @@ def solve_day(day,zinit,runinit,past,neutral,hold,terminal=True,gamma=.10):
  lo=np.zeros(N);hi=np.ones(N)
  lo[n:]=-.9*REF.Cnext_MW.iloc[start:end].to_numpy();hi[n:]=.9*REF.Cnext_MW.iloc[start:end].to_numpy()
  cost=np.zeros(N)
- pump=2*.35*320*.25*e.ActionRatio.abs().to_numpy()
+ pump=2*.35*.25*INPUT.Price_CNY_per_MWh.iloc[e.Step.astype(int).to_numpy()-1].to_numpy()*e.ActionRatio.abs().to_numpy()
  baseprofit=np.array([by[t][by[t].ActionRatio==0].NetProfit_CNY.iloc[0] for t in range(96)])
  cost[:n]=-e.NetProfit_CNY.to_numpy()+baseprofit[e.Step.astype(int).to_numpy()-start-1]+pump
  A=coo_matrix((vals,(rows,cols)),shape=(len(lower),N)).tocsc()
@@ -62,7 +62,7 @@ def solve_day(day,zinit,runinit,past,neutral,hold,terminal=True,gamma=.10):
   r=r.to_dict();assert r['PrevState']==ir
   z=RHO*z+r['StateDelta_MW'];ir=int(r['NextState']);t=int(r['Step'])-1
   r['State_z_MW']=z;r['State_x']=z/REF.Cnext_MW.iloc[t]
-  r['PumpProxyCost_CNY']=2*.35*320*.25*abs(r['ActionRatio'])
+  r['PumpProxyCost_CNY']=2*.35*.25*float(INPUT.Price_CNY_per_MWh.iloc[t])*abs(r['ActionRatio'])
   r['NetProfit_singlePumpProxy_CNY']=r['NetProfit_CNY']-r['PumpProxyCost_CNY']
   rs.append(r)
  assert abs(z-xx[-1])<1e-5

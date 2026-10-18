@@ -46,7 +46,7 @@ def economics(q,price,ratio,peak,cfg=CFG,pump_multiplier=1.):
     fuel=.25*(pu*h).sum(axis=-1)/1000*cfg['coalPrice_CNY_per_GJ']
     revenue=power*np.asarray(price)*.25
     flex=.25*(cfg['wearCost_full']*np.abs(ratio)*(1+cfg['unit2FlexCostScale'])+cfg['flexQuadraticCost_full']*np.asarray(ratio)**2)
-    pump=.25*cfg['nUnit']*cfg['pumpExtraMW_full']*cfg['auxElec_price_CNY_per_MWh']*np.abs(ratio)*pump_multiplier
+    pump=.25*cfg['nUnit']*cfg['pumpExtraMW_full']*np.asarray(price)*np.abs(ratio)*pump_multiplier
     avail=cfg['nUnit']*cfg['AGC_availability_CNY_per_h']*.25*np.asarray(peak)
     return dict(P_MW=power,P1_MW=pu[...,0],P2_MW=pu[...,1],FuelCost_CNY=fuel,EnergyRevenue_CNY=revenue,FlexCost_CNY=flex,PumpProxyCost_CNY=pump,AGCAvailabilityPay_CNY=avail)
 

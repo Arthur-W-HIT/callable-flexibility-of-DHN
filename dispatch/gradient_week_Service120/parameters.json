@@ -19,8 +19,8 @@
   "terminal_tolerance": 0.02,
   "gamma_under": 0.1,
   "gamma_over": 0.1,
-  "weather_input": "source-file/gradient_week.csv",
+  "weather_input": "project\\AE_Rebuild\\R1_Revision_20261008\\pump_price_20261018\\inputs\\gradient_week.csv",
   "weather_input_sha256": "158200c54656fd8fef0ed2be7fe9b039117e99b3ed95ad47404957dba84e877e",
-  "solver_source_sha256": "96c7161d2998ba4087cda4469d19d1d353a953acfce5174f017d408d37ca25f2",
+  "solver_source_sha256": "ba7e1d5bf33535d4cc6f5bf774e4a96379dc7e3ae888fc81b9e0b25c2cb1b07f",
   "solver": "daily grid DP; exact feasible-interval guard and continuous state reconstruction; explicit hard terminal and rolling verification"
 }

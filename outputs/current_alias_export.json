@@ -1,0 +1,5 @@
+{
+  "default_ledger": "current inherited paired Service/Neutral",
+  "all_default_prices_time_varying": true,
+  "noflex_plot_state": "exact reference recurrence; unused in the calling-state panels"
+}

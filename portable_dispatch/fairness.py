@@ -78,7 +78,7 @@ def reprice(cases,pump_factor=1.,fuel_factor=1.,price_factor=1.,suffix='base'):
         price=center+price_factor*(price-center)
         data=dp.economics(T.ActualSourceQ_MWth.to_numpy(),price,T.ActionRatio.to_numpy(),T.PeakSupportFlag.to_numpy(),cfg)
         agce=cfg['AGC_energy_CNY_per_MWh']*np.maximum(data['P_MW']-p0,0)*.25*T.PeakSupportFlag.to_numpy()
-        pump=T.ActualPump_MWh.to_numpy()*cfg['auxElec_price_CNY_per_MWh']*pump_factor
+        pump=T.ActualPump_MWh.to_numpy()*price*pump_factor
         net=data['EnergyRevenue_CNY']-data['FuelCost_CNY']-data['FlexCost_CNY']+data['AGCAvailabilityPay_CNY']+agce-pump
         feasible=np.isfinite(net)&(T.ActualSourceQ_MWth.to_numpy()>=dp.PLANT['Qh_min']-1e-6)&(T.ActualSourceQ_MWth.to_numpy()<=dp.PLANT['Qh_max']+1e-6)
         # Preserve violations; never price a NaN as zero or silently discard physical plant violations.
