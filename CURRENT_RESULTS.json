@@ -901,5 +901,21 @@
     "replays/warm_week_Service15/actual_15min.csv",
     "replays/warm_week_Service15/metrics.json",
     "replays/warm_week_Service15/plot_data.npz"
-  ]
+  ],
+  "presentation_corrections": {
+    "framework": "figures/fig2.framework.pdf",
+    "dispatch_decision_steps_min": [
+      15,
+      30,
+      45,
+      60,
+      120
+    ],
+    "boundary_scanned_duration_min": [
+      15,
+      345
+    ],
+    "zero_boundary_anchor_min": 360,
+    "economic_and_physical_results_unchanged": true
+  }
 }

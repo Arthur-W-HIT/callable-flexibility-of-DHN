@@ -7729,9 +7729,9 @@
     },
     {
       "file": "figures/fig2.framework.pdf",
-      "source": "AE_Rebuild\\R1_Revision_20261008\\pump_price_20261018\\exported_figures\\figures\\fig2.framework.pdf",
-      "source_sha256": "512d4da029a2f1fd46edad960c2e697bf8074a292e23520ea40b9bba56bb4dfd",
-      "public_sha256": "512d4da029a2f1fd46edad960c2e697bf8074a292e23520ea40b9bba56bb4dfd",
+      "source": "R1 final correction: existing vector framework with decision labels updated",
+      "source_sha256": "6c84f6775621b9bf6644f3d1fa1fa9393d4cf2af21a85d1a86ac35e06389e805",
+      "public_sha256": "6c84f6775621b9bf6644f3d1fa1fa9393d4cf2af21a85d1a86ac35e06389e805",
       "path_fields_sanitized": false
     },
     {
@@ -8025,5 +8025,14 @@
   "model_distribution": "Complete dynamic model and component dependencies upon reasonable academic request",
   "repository": "https://github.com/Arthur-W-HIT/callable-flexibility-of-DHN",
   "text_encoding": "UTF-8 with LF newlines; numeric CSV cells unchanged.",
-  "revision": "time-varying-pump-price-20261018"
+  "revision": "time-varying-pump-price-20261018",
+  "final_corrections": {
+    "date": "2026-10-18",
+    "changed_scientific_data": false,
+    "framework_original_sha256": "512d4da029a2f1fd46edad960c2e697bf8074a292e23520ea40b9bba56bb4dfd",
+    "framework_updated_sha256": "6c84f6775621b9bf6644f3d1fa1fa9393d4cf2af21a85d1a86ac35e06389e805",
+    "program": "plotting/update_framework_labels.py",
+    "input": "figure_data/framework_before_label_update.pdf",
+    "other_figure_files_unchanged": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "status": "CURRENT_TIME_VARYING_PUMP_PRICE_REVISION",
+  "status": "CURRENT_TIME_VARYING_PUMP_PRICE_REVISION_WITH_FINAL_PRESENTATION_CORRECTIONS",
   "files": [
     {
       "path": ".gitattributes",
@@ -269,8 +269,8 @@
     },
     {
       "path": "CURRENT_RESULTS.json",
-      "bytes": 43029,
-      "sha256": "4a500f76cfd1f091010cebc32e2ab95b30c577b048e7875690f0244014d3098f"
+      "bytes": 42459,
+      "sha256": "fbc85fc36462da2b2203009bc68ee3eba8f158bbadd9fd0d8d49639ea4d45bfb"
     },
     {
       "path": "dispatch/ActionGrid13_Service120/inputs.csv",
@@ -3438,6 +3438,11 @@
       "sha256": "fd58897c50396422991ed91321c8678d34bac62e176af142136552b4a7641606"
     },
     {
+      "path": "figure_data/framework_before_label_update.pdf",
+      "bytes": 7645,
+      "sha256": "512d4da029a2f1fd46edad960c2e697bf8074a292e23520ea40b9bba56bb4dfd"
+    },
+    {
       "path": "figure_data/main/action_block_cases.csv",
       "bytes": 1395,
       "sha256": "da46727965d9d1d2419e6703cab185d1f32e70bbfbdf3629af9685ba38ce59b9"
@@ -3634,8 +3639,8 @@
     },
     {
       "path": "figures/fig2.framework.pdf",
-      "bytes": 7645,
-      "sha256": "512d4da029a2f1fd46edad960c2e697bf8074a292e23520ea40b9bba56bb4dfd"
+      "bytes": 7646,
+      "sha256": "6c84f6775621b9bf6644f3d1fa1fa9393d4cf2af21a85d1a86ac35e06389e805"
     },
     {
       "path": "figures/fixed_supply_flow_baseline_1c_diagnostic.pdf",
@@ -4358,6 +4363,11 @@
       "sha256": "d81d09ac669453cee4acbd7aa9e3bc354b67ea8c26b25bd838e092c94f3eb5ce"
     },
     {
+      "path": "plotting/update_framework_labels.py",
+      "bytes": 3456,
+      "sha256": "6103b163fee375c659ecb09bf60b378621a58539c849ca2e75a12e7cbc584605"
+    },
+    {
       "path": "portable_dispatch/common.py",
       "bytes": 656,
       "sha256": "2020be48c50d1747399e58dff480c9fae3683b0a638e078bc9ffe2ef4c907e58"
@@ -4409,8 +4419,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6844,
-      "sha256": "7e9490e673568110a86a44a7695cf5e16bb61fc5078df7d81522cc3149469de0"
+      "bytes": 7332,
+      "sha256": "fffe647b1b6f98b883f9ad8cf787ad336efc416dd21d1c19378df0b768ea20aa"
     },
     {
       "path": "replays/ActionGrid385_Service120/actual_15min.csv",
@@ -5649,8 +5659,8 @@
     },
     {
       "path": "SOURCE_MANIFEST.json",
-      "bytes": 483741,
-      "sha256": "fc8c8b3fa96bbdc0ca3e2fc7adcb9b3545a7e9856c1c75519f26a76529eccfe7"
+      "bytes": 476141,
+      "sha256": "59f7a55e345534b59618bd382822ee8d90dd1df2f4eb7348e1db1e99298de35e"
     },
     {
       "path": "VALIDATION.json",

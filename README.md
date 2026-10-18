@@ -4,7 +4,7 @@ Identification method for duration-dependent callable flexibility in district he
 
 Repository: https://github.com/Arthur-W-HIT/callable-flexibility-of-DHN
 
-Data and computational materials for the revised manuscript APEN-D-26-15702. The presentation audit of 18 October 2026 is incorporated below.
+Data and computational materials for the revised manuscript APEN-D-26-15702. The corrections of 18 October 2026 are incorporated below.
 
 ## Contents and units
 
@@ -31,7 +31,18 @@ python plotting/reproduce_main_figures.py
 python plotting/reproduce_explanatory_figures.py
 ```
 
-The first example rebuilds the first main-week day with 15 min decisions, seven actions, and 641 requested state points, and checks the action sequence and objective against the included reference. It verifies a scheduling subset. The second regenerates an additional baseline diagnostic and checks pixels in the tested environment. The third regenerates the eleven refreshed main result figures from their frozen revised data using the original plotting bodies. The fourth redraws the appendix topology and Appendix C week from verified exported data. Different font/rendering installations can affect image bytes or pixels.
+`portable_dispatch/reproduce_day.py` rebuilds the first main-week day with 15 min decisions, seven actions, and 641 requested state points, and checks the action sequence and objective against the included reference. It verifies a scheduling subset.
+
+`portable_dispatch/verify_pump_accounting.py` checks exported pump energy and same-interval time-varying price billing for the main-week, paired, and seasonal ledgers without Dymola.
+
+`portable_figures/reproduce_baseline.py` regenerates an additional baseline diagnostic and checks pixels in the tested environment. `plotting/reproduce_main_figures.py` regenerates the eleven main quantitative figures from their frozen data using the original plotting bodies. `plotting/reproduce_explanatory_figures.py` redraws the appendix topology and representative-week drivers. Different font/rendering installations can affect image bytes or pixels.
+
+The framework label correction preserves the original vector artwork and changes only the decision-step labels. Reproduce it from the archived input with:
+
+```text
+python plotting/update_framework_labels.py figure_data/framework_before_label_update.pdf regenerated/framework.pdf
+```
+
 
 Optional full seven-day grid-DP or paired command-level MILP runs:
 
