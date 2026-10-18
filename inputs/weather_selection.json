@@ -1,0 +1,39 @@
+{
+  "windows": [
+    {
+      "case": "cold_week",
+      "start": "2025-01-29 00:00:00",
+      "rule": "minimum 7-day mean",
+      "mean_raw_C": -19.60483630952381,
+      "min_raw_C": -27.5,
+      "max_raw_C": -11.7,
+      "prices": "actual main-week price series held common"
+    },
+    {
+      "case": "warm_week",
+      "start": "2024-11-19 00:00:00",
+      "rule": "maximum 7-day mean",
+      "mean_raw_C": 1.9366815476190478,
+      "min_raw_C": -4.6,
+      "max_raw_C": 8.9,
+      "prices": "actual main-week price series held common"
+    },
+    {
+      "case": "gradient_week",
+      "start": "2024-11-23 00:00:00",
+      "rule": "centered window around maximum absolute 24h change",
+      "mean_raw_C": -1.7681547619047624,
+      "min_raw_C": -10.1,
+      "max_raw_C": 8.9,
+      "prices": "actual main-week price series held common"
+    }
+  ],
+  "source": "source-file/shenyang_heating_season_15min_inputs.csv",
+  "source_sha256": "84387637c7ff77518e1a5a6aa5dc22b095c317ba6d81fe610cc3e45235d74c83",
+  "week_price_source": "source-file/shenyang_week_15min_inputs.csv",
+  "week_price_source_sha256": "bcfcbdc4408c7903fdfd6e168b02025165ad8394cbee9c438a7048c3c2f02e2d",
+  "original_filtered_series_max_difference_C": 5.3290705182007514e-14,
+  "model_weather": "same effective/equivalent ambient policy as season; raw/effective/equivalent all retained",
+  "known_weather_horizon": "offline prescribed series; 24h optimization per day, inherited filter state from complete prior weather",
+  "season_zero_price_steps": 1113
+}

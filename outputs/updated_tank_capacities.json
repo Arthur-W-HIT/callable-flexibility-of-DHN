@@ -1,0 +1,15 @@
+{
+  "library_sha256": "9a03a747fa7b42132036e0cc0505735800a511a7e679c9b53c0595efafe70167",
+  "capacities": {
+    "upward": {
+      "max_scan_MWh_N5": 372.5532713649712,
+      "longest_duration_345min_MWh_N5": 196.2937364212917
+    },
+    "downward": {
+      "max_scan_MWh_N5": 570.8666037770055,
+      "longest_duration_345min_MWh_N5": 200.8289621538088
+    }
+  },
+  "definition": "same originalFig12 rules; maxima over scan and longest345min; current floor16 unified library",
+  "original": "source-file/E0_configuration_audit.json"
+}

@@ -1,0 +1,29 @@
+﻿parameter,value,source,status
+internal_step_min,15,configuration.json,adopted R1 experimental setting
+residual_after6h,0.1,configuration.json,adopted R1 experimental setting
+rho_15min,0.9085175756516868,configuration.json,adopted R1 experimental setting
+service_floor_C,16,configuration.json,adopted R1 experimental setting
+recovery_window_min,30,configuration.json,adopted R1 experimental setting
+recovery_tolerance_C,0.5,configuration.json,adopted R1 experimental setting
+nominal_scan_envelope_C,"[40, 150]",configuration.json,adopted R1 experimental setting
+water_medium_max_C,130,configuration.json,adopted R1 experimental setting
+boundary_heat_definition,"""frozen manuscript cp=4180 source-flow temperature-difference integral; actual enthalpy also retained""",configuration.json,adopted R1 experimental setting
+weather_filter_h,6,configuration.json,adopted R1 experimental setting
+supply_rate_C_per_h,2,configuration.json,adopted R1 experimental setting
+pump_count,10,configuration.json,adopted R1 experimental setting
+parallel_subnetworks,5,configuration.json,adopted R1 experimental setting
+coalPrice_CNY_per_GJ,32,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+AGC_availability_CNY_per_h,20,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+AGC_energy_CNY_per_MWh,120,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+auxElec_price_CNY_per_MWh,320,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+pumpExtraMW_full,0.35,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+wearCost_full,300,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+flexQuadraticCost_full,2500,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+terminalTolerance,0.02,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+gammaUnder,0.1,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+gammaOver,0.1,existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+actionRatioGrid,"[-0.2, -0.1, -0.05, 0, 0.05, 0.1, 0.2]",existing MATLAB config / explicit R1 controlled setting,fixed for comparison
+PositiveEnergyCapacity_maxScan_MWh,357.91120753884763,original Fig12 data,verified original comparator; new version recomputed after E1
+NegativeEnergyCapacity_maxScan_MWh,390.4763330407428,original Fig12 data,verified original comparator; new version recomputed after E1
+PositiveEnergyCapacity_longestDuration_MWh,194.30168127087413,original Fig12 data,verified original comparator; new version recomputed after E1
+NegativeEnergyCapacity_longestDuration_MWh,197.66817443046816,original Fig12 data,verified original comparator; new version recomputed after E1

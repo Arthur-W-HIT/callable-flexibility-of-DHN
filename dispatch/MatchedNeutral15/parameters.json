@@ -1,0 +1,18 @@
+{
+  "hold_steps": 1,
+  "neutral": true,
+  "days": 7,
+  "rho": 0.9085175756516868,
+  "terminal_tolerance": 0.02,
+  "rolling_window_steps": 24,
+  "gamma_under": 0.1,
+  "gamma_over": 0.1,
+  "command_heat_neutral_daily_relative_tolerance": 0.0001,
+  "solver": "scipy.optimize.milp/HiGHS, daily incumbent; no all-week global optimality claim",
+  "time_limit_per_day_s": 120,
+  "mip_relative_gap_target": 0.005,
+  "source": "source-file/dispatch_counterfactual.py",
+  "source_sha256": "e3cc608470c6712c79b12175d91a390e263e2aba41923ef663b339b97a316f3e",
+  "library_sha256": "9a03a747fa7b42132036e0cc0505735800a511a7e679c9b53c0595efafe70167",
+  "economic_definition": "wear/quadratic plus exactly one pump proxy; actual pump reprice replaces proxy"
+}

@@ -1,0 +1,5 @@
+﻿case,pump_MWh_N5,hours,N,pumps
+FreshCapturedReference,435.8489196996495,168,5,10
+Fresh20C,436.86151363548817,168,5,10
+FreshSeasonReference,437.5581153567298,168,5,10
+SeasonInheritedReference,152.5704564732761,168,5,10

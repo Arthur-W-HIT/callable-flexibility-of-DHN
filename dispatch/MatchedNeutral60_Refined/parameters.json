@@ -1,0 +1,25 @@
+{
+  "hold_steps": 4,
+  "days": 7,
+  "neutral": true,
+  "rho": 0.9085175756516868,
+  "time_limit_refined_s": 600,
+  "unchanged_days": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "recomputed_days": [
+    5,
+    6,
+    7
+  ],
+  "daily_terminal": 0.02,
+  "rolling_budgets": 0.1,
+  "command_neutral_tolerance": 0.0001,
+  "original_problem_sha256": "e3cc608470c6712c79b12175d91a390e263e2aba41923ef663b339b97a316f3e",
+  "script_sha256": "dc828b5859f5b469a479824b43b45dedd898d76cbc35d47e5e879928305e3080",
+  "feasible_set": "unchanged: nonidle count mod hold equals step phase; only unreachable states removed",
+  "global_optimality": "daily feasible incumbents; reported actual gaps; no all-week global optimum claim"
+}

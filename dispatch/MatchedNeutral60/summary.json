@@ -1,0 +1,108 @@
+{
+  "total_profit_singlePumpProxy_CNY": 111735.3759793156,
+  "net_heat_difference_MWh": -0.23322678487443937,
+  "daily_heat_difference_MWh": [
+    -0.18265079584354282,
+    -0.7330541629414604,
+    0.5714454078878752,
+    0.2968621352536971,
+    -0.34616086563048043,
+    0.5392452012260716,
+    -0.37891370482660136
+  ],
+  "maximum_state_abs": 0.8997976503271307,
+  "maximum_terminal_deviation_relative_NoFlex": 0.019611970920149328,
+  "maximum_rolling_under_ratio": 0.054977402911915225,
+  "maximum_rolling_over_ratio": 0.04908100556092139,
+  "active_steps": 424,
+  "incremental_profit_with_proxy_CNY": 41248.888099650096,
+  "case": "MatchedNeutral60",
+  "elapsed_s": 499.405999999959,
+  "solver_days": [
+    {
+      "day": 1,
+      "solver_status": 0,
+      "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "elapsed_s": 8.171999999787658,
+      "variables": 18336,
+      "binary_variables": 18240,
+      "rows": 5498,
+      "mip_gap": 0.0025704531575709523,
+      "objective_gain_CNY": 2784.7864946491227,
+      "max_linear_violation": 8.171241461241152e-14
+    },
+    {
+      "day": 2,
+      "solver_status": 0,
+      "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "elapsed_s": 32.46900000004098,
+      "variables": 15375,
+      "binary_variables": 15279,
+      "rows": 5498,
+      "mip_gap": 0.004896320705018377,
+      "objective_gain_CNY": 4498.555928711248,
+      "max_linear_violation": 4.689582056016661e-13
+    },
+    {
+      "day": 3,
+      "solver_status": 0,
+      "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "elapsed_s": 93.65599999995902,
+      "variables": 18336,
+      "binary_variables": 18240,
+      "rows": 5498,
+      "mip_gap": 0.004795103266041367,
+      "objective_gain_CNY": 7090.838832925145,
+      "max_linear_violation": 1.1652900866465643e-12
+    },
+    {
+      "day": 4,
+      "solver_status": 0,
+      "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "elapsed_s": 111.73400000017136,
+      "variables": 18336,
+      "binary_variables": 18240,
+      "rows": 5498,
+      "mip_gap": 0.0047558698910527344,
+      "objective_gain_CNY": 9057.463832625805,
+      "max_linear_violation": 6.892264536872972e-13
+    },
+    {
+      "day": 5,
+      "solver_status": 1,
+      "solver_message": "Time limit reached. (HiGHS Status 13: Time limit reached)",
+      "elapsed_s": 120.125,
+      "variables": 18336,
+      "binary_variables": 18240,
+      "rows": 5498,
+      "mip_gap": 0.3271334467052093,
+      "objective_gain_CNY": 6704.1589087744,
+      "max_linear_violation": 1.0347278589506459e-13
+    },
+    {
+      "day": 6,
+      "solver_status": 0,
+      "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "elapsed_s": 68.43699999991804,
+      "variables": 18336,
+      "binary_variables": 18240,
+      "rows": 5498,
+      "mip_gap": 0.004930924722399177,
+      "objective_gain_CNY": 4140.965003640618,
+      "max_linear_violation": 2.842170943040401e-14
+    },
+    {
+      "day": 7,
+      "solver_status": 0,
+      "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+      "elapsed_s": 55.0,
+      "variables": 18336,
+      "binary_variables": 18240,
+      "rows": 5498,
+      "mip_gap": 0.0009465236229609459,
+      "objective_gain_CNY": 6972.119098324927,
+      "max_linear_violation": 1.6409934353747416e-09
+    }
+  ],
+  "actual_heat_neutrality": "requires enthalpy replay; command constraint alone is not physical balance"
+}

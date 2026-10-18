@@ -1,0 +1,26 @@
+{
+  "hold_steps": 8,
+  "requested_grid": 641,
+  "action_grid": [
+    -0.2,
+    -0.1,
+    -0.05,
+    0.0,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "rho": 0.9085175756516868,
+  "residual_6h": 0.1,
+  "fuel_factor": 1.0,
+  "price_factor": 1.0,
+  "pump_factor": 1.0,
+  "library_sha256": "9a03a747fa7b42132036e0cc0505735800a511a7e679c9b53c0595efafe70167",
+  "terminal_tolerance": 0.02,
+  "gamma_under": 0.1,
+  "gamma_over": 0.1,
+  "weather_input": "source-file/warm_week.csv",
+  "weather_input_sha256": "554ada37ae782a504989a10df611dfdf69a9e3db51426fba062ca1cd2d9a34be",
+  "solver_source_sha256": "96c7161d2998ba4087cda4469d19d1d353a953acfce5174f017d408d37ca25f2",
+  "solver": "daily grid DP; exact feasible-interval guard and continuous state reconstruction; explicit hard terminal and rolling verification"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "dispatch_example": {
+    "passed": true,
+    "actions_identical": true,
+    "proxy_gain_CNY": 5027.1759428814985,
+    "state_recurrence_error_MW": 0.0
+  },
+  "baseline_figure_pixel_identical": true,
+  "refreshed_and_explanatory_figures": {
+    "count": 13,
+    "all_pixel_identical": true
+  },
+  "milp_day1": {
+    "passed": true,
+    "relative_gap": 0.004990955205129518,
+    "max_linear_violation": 4.263256414560601e-13
+  },
+  "copied_package_dispatch_and_baseline": {
+    "passed": true,
+    "forbidden_project_data_open_attempts": 0
+  },
+  "scope": "Same-environment scheduling and plotting reproduction; exported physical results provided. Complete Dymola model/dependencies by request; no independent physical validation or full cross-machine simulation claim.",
+  "github_status": "LOCAL_FOLDER_ONLY_PUBLIC_LINK_PENDING"
+}

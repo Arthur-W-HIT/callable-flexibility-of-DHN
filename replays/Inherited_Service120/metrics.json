@@ -1,0 +1,65 @@
+{
+  "case": "Inherited_Service120",
+  "run_status": "ok",
+  "mat_complete": true,
+  "mat_path": "source-file/result.mat",
+  "mat_sha256": "41ea978a12b05a18700226ef6bc9a980514bdcacb0d3afcf6fe430daf5d0a48a",
+  "elapsed_s": 146.76500000013039,
+  "eval_start_s": 9492800.0,
+  "stop_s": 10119200.0,
+  "main_stop_s": 10097600.0,
+  "final_time_s": 10119200.0,
+  "input_errors": {
+    "ambient_C": 5.284661597215745e-13,
+    "flow_scale": 2.214925041155169e-07,
+    "action_C": 4.978240042419202e-13
+  },
+  "reference_C": [
+    20.106272901555894,
+    19.807067418385486,
+    20.374865758825603,
+    19.89427714102745,
+    19.817708480159276
+  ],
+  "reference_policy": "season_baseline",
+  "source_heat_MWh_N5": 53773.58431921411,
+  "source_cp_proxy_MWh_N5": 53722.17553900099,
+  "radiator_heat_MWh_N5": 53189.890040757855,
+  "pipe_loss_MWh_N5": 794.6702733949664,
+  "pump_heat_MWh_N5": 157.6332431518901,
+  "pump_electric_MWh_N5": 157.6332431518901,
+  "pump_components_MWh_N5": {
+    "PN_pump": 86.67626229554142,
+    "PN_pump1": 0.0,
+    "PN_pump2": 1.0631973937077115,
+    "PN_pump3": 5.10951861530184,
+    "PN_pump4": 1.8639706839136527,
+    "B1_PUMP": 11.78371495968529,
+    "B2_PUMP": 4.748657320577001,
+    "B3_PUMP": 22.341002581402563,
+    "B4_PUMP": 23.475565293543053,
+    "B5_PUMP": 0.5713540082175633
+  },
+  "building_stored_change_MWh_N5": -165.94232990833333,
+  "building_stored_end_J": 404945380453007.3,
+  "room_min_C": 18.74528555342181,
+  "room_max_C": 22.541856782139917,
+  "room_time_mean_C": 20.656267481207546,
+  "final_room_C": [
+    20.567542944599666,
+    20.60154679815986,
+    20.578741261091068,
+    19.716287077576624,
+    20.100025466085015
+  ],
+  "initial_room_C": [
+    21.219508281440483,
+    21.212637796359502,
+    21.214214866278894,
+    20.28563105372217,
+    19.64976237704286
+  ],
+  "below16_zone_degreehours": 0.0,
+  "below18_zone_degreehours": 0.0,
+  "min_pressure_Pa": 300000.0
+}

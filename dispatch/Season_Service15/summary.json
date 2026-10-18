@@ -1,0 +1,1811 @@
+{
+  "incremental_profit_with_proxy_CNY": 1827016.3650889397,
+  "state_recurrence_error_MW": 0.0,
+  "max_abs_state": 0.8997943872547984,
+  "max_terminal_relative_deviation": 0.019993372171695528,
+  "max_rolling_under_ratio": 0.06080570429361389,
+  "max_rolling_over_ratio": 0.0899090463101593,
+  "command_net_heat_difference_MWh": -14050.880078655973,
+  "active_steps": 8380,
+  "same_direction_max_duration_min": 180.0,
+  "NoFlex_profit_CNY": 164777170.0608678,
+  "case": "Season_Service15",
+  "solver_days": [
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.003663589212404445,
+      "value_at_grid_initial": -1399271.3111490605
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0032763280833272,
+      "value_at_grid_initial": -743004.9329147064
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.009865065260787355,
+      "value_at_grid_initial": 4009468.0111775096
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0009937039054615695,
+      "value_at_grid_initial": -65374.75112730499
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0005175482900283019,
+      "value_at_grid_initial": 392848.5935634645
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0021183277024922967,
+      "value_at_grid_initial": -3110626.7326553673
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.009208602073835575,
+      "value_at_grid_initial": 437524.9924693326
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.007377182238118088,
+      "value_at_grid_initial": 2270150.5071271406
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.005502054716842718,
+      "value_at_grid_initial": 843845.6666043194
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.01667351239685592,
+      "value_at_grid_initial": -1574161.476195181
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.006857180882726596,
+      "value_at_grid_initial": -3059430.055899651
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0006806704005324466,
+      "value_at_grid_initial": -364801.37608201284
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0022261017625958496,
+      "value_at_grid_initial": -701816.3208676949
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0030237579534757838,
+      "value_at_grid_initial": -791387.0530181697
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0009823781576100631,
+      "value_at_grid_initial": 257899.1583318538
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.012576492473287322,
+      "value_at_grid_initial": 1148838.7334277336
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.00021382586993445957,
+      "value_at_grid_initial": -193736.36133351873
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.00039296916950349225,
+      "value_at_grid_initial": -506781.4723778125
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.012280460531866245,
+      "value_at_grid_initial": -1609257.8294287745
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.018803945779592806,
+      "value_at_grid_initial": -2564188.78992559
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.008157248253544124,
+      "value_at_grid_initial": -2162057.6378154624
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0007620552821499727,
+      "value_at_grid_initial": -562595.0923442179
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.002765010966107776,
+      "value_at_grid_initial": 1347340.686051512
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.005179989726332331,
+      "value_at_grid_initial": 1073539.8944047932
+    },
+    {
+      "grid_points": 1281,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.01915800247145285,
+      "value_at_grid_initial": 10650358.745072542
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.010279909630389335,
+      "value_at_grid_initial": 1512986.923619162
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.013238730410225323,
+      "value_at_grid_initial": 7112816.317781329
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.016861755082305706,
+      "value_at_grid_initial": 11647352.211558914
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.015487202869774485,
+      "value_at_grid_initial": 7871355.59202211
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.00935127915241909,
+      "value_at_grid_initial": 5406035.401291085
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.014269508645170292,
+      "value_at_grid_initial": 12990395.449333409
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0015646449953698272,
+      "value_at_grid_initial": 5043618.776854439
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0014824203533095916,
+      "value_at_grid_initial": 977257.6944526718
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0051038712788070645,
+      "value_at_grid_initial": 1235956.8730213933
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.005609807303704965,
+      "value_at_grid_initial": 4254688.230865886
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.009282083768066024,
+      "value_at_grid_initial": 8024408.3765841285
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.005012279968049936,
+      "value_at_grid_initial": 3157950.6807013266
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.007496032829129854,
+      "value_at_grid_initial": -278674.3530304015
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.005417134336187682,
+      "value_at_grid_initial": 1035264.0192189951
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.01439056926496926,
+      "value_at_grid_initial": 7535489.866689157
+    },
+    {
+      "grid_points": 1281,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.012003715825703158,
+      "value_at_grid_initial": 5428101.822072337
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.00035067432091430407,
+      "value_at_grid_initial": 8339876.519786507
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.01883312108267504,
+      "value_at_grid_initial": 2363635.4338012706
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 6.358199383663457e-05,
+      "value_at_grid_initial": -858950.8192228212
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.004411521966248836,
+      "value_at_grid_initial": 1006680.7394540152
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0006454805074513131,
+      "value_at_grid_initial": -359012.15502654755
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0015681804060384502,
+      "value_at_grid_initial": -1153412.9332985643
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0008572714225266249,
+      "value_at_grid_initial": -629331.586395475
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0020867849879219447,
+      "value_at_grid_initial": -704302.0519903108
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0029733803158328185,
+      "value_at_grid_initial": -610122.5325095304
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.01863134552670487,
+      "value_at_grid_initial": -18691.818281357133
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0024713109044286787,
+      "value_at_grid_initial": 1120848.7241299134
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0029757222185205646,
+      "value_at_grid_initial": 397494.7748325325
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0027333409777806766,
+      "value_at_grid_initial": 652454.457955074
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.002015483281629151,
+      "value_at_grid_initial": -348747.5342521941
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0010350479931739767,
+      "value_at_grid_initial": -741825.3688367823
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.013443246489591965,
+      "value_at_grid_initial": 257568.43014644357
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.003135456174911829,
+      "value_at_grid_initial": -377181.6673696143
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.003277655823439042,
+      "value_at_grid_initial": 303646.71992675884
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.011451732736140892,
+      "value_at_grid_initial": 1426994.6014060525
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.008158939930126076,
+      "value_at_grid_initial": 5115212.8087542895
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.007389726032408126,
+      "value_at_grid_initial": 4380967.57608356
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.00027365101007665406,
+      "value_at_grid_initial": 2754394.310758278
+    },
+    {
+      "grid_points": 1281,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.007289739838536541,
+      "value_at_grid_initial": 3698086.5327687366
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.00534939355063316,
+      "value_at_grid_initial": 2088466.9824756398
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.006331182102124006,
+      "value_at_grid_initial": -365771.4633806502
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.007249314037178473,
+      "value_at_grid_initial": 1619902.5054985469
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0035117044838238686,
+      "value_at_grid_initial": -30839.92191242775
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.004684203983603813,
+      "value_at_grid_initial": 2113797.416605055
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0033470316066704186,
+      "value_at_grid_initial": -186364.7214712365
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0030401290931689998,
+      "value_at_grid_initial": 695245.482424911
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.005288227136178976,
+      "value_at_grid_initial": -411110.26269209146
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.002476305488448489,
+      "value_at_grid_initial": 1017448.1935281758
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.006403962651346427,
+      "value_at_grid_initial": 1028184.2392629161
+    },
+    {
+      "grid_points": 1281,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.01884965753308221,
+      "value_at_grid_initial": 468648.93139637745
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 1.945229229518846e-06,
+      "value_at_grid_initial": 1743987.9835638728
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 1.972952555699679e-10,
+      "value_at_grid_initial": 3147258.63225324
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 2.05139725781834e-14,
+      "value_at_grid_initial": 2486529.1006645276
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 1.0004900588196212e-17,
+      "value_at_grid_initial": 1634730.3132864942
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 2.0093212802539865e-16,
+      "value_at_grid_initial": 1665790.1207958732
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -6.506162460659452e-17,
+      "value_at_grid_initial": 2104901.187091682
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.004853158532214751,
+      "value_at_grid_initial": 1110524.48365079
+    },
+    {
+      "grid_points": 5121,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.019993372171695528,
+      "value_at_grid_initial": 685649.345147574
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.00039137063095239606,
+      "value_at_grid_initial": -305802.21349804825
+    },
+    {
+      "grid_points": 2561,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.01906427134556972,
+      "value_at_grid_initial": -2323831.7439620136
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.014577561609788183,
+      "value_at_grid_initial": -1918182.242323135
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0023682423477148027,
+      "value_at_grid_initial": -1736600.3354118206
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0020753387182805955,
+      "value_at_grid_initial": -3074634.0396347367
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.008285492272680852,
+      "value_at_grid_initial": -1509865.9754392318
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.002991808329842481,
+      "value_at_grid_initial": -297010.6704860459
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -6.219542108450645e-05,
+      "value_at_grid_initial": -1927080.35494361
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.014950269141640306,
+      "value_at_grid_initial": -2837954.74872067
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.01125850326379421,
+      "value_at_grid_initial": -2273429.568339333
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.00033426838314827036,
+      "value_at_grid_initial": 694075.8443387954
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0030925101648111544,
+      "value_at_grid_initial": 3345219.1736166156
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0014235626929846215,
+      "value_at_grid_initial": 8055155.50479628
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0010600115255099908,
+      "value_at_grid_initial": 3060312.2216135976
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0007611801870736813,
+      "value_at_grid_initial": 2948573.0821289765
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.01515023277421008,
+      "value_at_grid_initial": 4640812.242083905
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.008515976102219885,
+      "value_at_grid_initial": 1685768.241396787
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.008860085427850259,
+      "value_at_grid_initial": 207153.88222175077
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.009539085685122883,
+      "value_at_grid_initial": 764726.538798871
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.004194167759848579,
+      "value_at_grid_initial": 1819488.6396171495
+    },
+    {
+      "grid_points": 1281,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.005408112963237694,
+      "value_at_grid_initial": 2402552.316332912
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.0014646911973107072,
+      "value_at_grid_initial": -774691.3938633335
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.001126457710876974,
+      "value_at_grid_initial": -1696055.6275678952
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.012714011220004758,
+      "value_at_grid_initial": 390869.0818616084
+    },
+    {
+      "grid_points": 1281,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.017639422525030937,
+      "value_at_grid_initial": 8597126.392044766
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.001844349747280059,
+      "value_at_grid_initial": 9136529.44978035
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.004541696795022768,
+      "value_at_grid_initial": 4537259.966640859
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.001022593646087149,
+      "value_at_grid_initial": -876623.4875122517
+    },
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.007498321998331164,
+      "value_at_grid_initial": 1260987.8232150448
+    }
+  ],
+  "elapsed_s": 30.82800000021234,
+  "day_count": 112,
+  "needs_dynamic_replay": true,
+  "heat_reference": "command proxy; actual source enthalpy and pump electricity reported separately after replay"
+}

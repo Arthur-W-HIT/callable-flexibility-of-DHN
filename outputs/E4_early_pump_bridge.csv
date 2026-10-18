@@ -1,0 +1,5 @@
+﻿case,pump_MWh_N5,hours,N,pumps,run
+FreshCapturedReference,435.84796315471675,168,5,10,EarlyBridge_Captured
+Fresh20C,436.8626333376326,168,5,10,EarlyBridge_20C
+FreshSeasonReference,437.5580834087349,168,5,10,EarlyBridge_SeasonRef
+SeasonInheritedReference,152.5704564732761,168,5,10,Season_NoFlex

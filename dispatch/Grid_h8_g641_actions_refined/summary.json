@@ -1,0 +1,41 @@
+{
+  "incremental_profit_with_proxy_CNY": 3080.3947682828875,
+  "state_recurrence_error_MW": 0.0,
+  "max_abs_state": 0.6429565880559873,
+  "max_terminal_relative_deviation": 0.017748828569548243,
+  "max_rolling_under_ratio": 0.09679702120119092,
+  "max_rolling_over_ratio": 0.014878083382836296,
+  "command_net_heat_difference_MWh": -164.23649790267007,
+  "active_steps": 56,
+  "same_direction_max_duration_min": 120.0,
+  "NoFlex_profit_CNY": 389233.3249789389,
+  "case": "Grid_h8_g641_actions_refined",
+  "solver_days": [
+    {
+      "grid_points": 641,
+      "action_grid": [
+        -0.2,
+        -0.15000000000000002,
+        -0.1,
+        -0.07500000000000001,
+        -0.05,
+        -0.025,
+        0.0,
+        0.025,
+        0.05,
+        0.07500000000000001,
+        0.1,
+        0.15000000000000002,
+        0.2
+      ],
+      "daily_decisions": 12,
+      "run_states": 49,
+      "terminal_relative_deviation": 0.017748828569548243,
+      "value_at_grid_initial": 392237.4010742163
+    }
+  ],
+  "elapsed_s": 0.21799999987706542,
+  "day_count": 1,
+  "needs_dynamic_replay": true,
+  "heat_reference": "command proxy; actual source enthalpy and pump electricity reported separately after replay"
+}

@@ -1,0 +1,35 @@
+{
+  "incremental_profit_with_proxy_CNY": 3797.336753643467,
+  "state_recurrence_error_MW": 0.0,
+  "max_abs_state": 0.8928853243679642,
+  "max_terminal_relative_deviation": 0.0014839958869831951,
+  "max_rolling_under_ratio": 0.062367315085000485,
+  "max_rolling_over_ratio": 0.01054388882901833,
+  "command_net_heat_difference_MWh": -250.10305823619888,
+  "active_steps": 76,
+  "same_direction_max_duration_min": 150.0,
+  "NoFlex_profit_CNY": 389463.43762852985,
+  "case": "E0_LegacyDPSmoke_v2_hold1",
+  "solver_days": [
+    {
+      "grid_points": 321,
+      "action_grid": [
+        -0.2,
+        -0.1,
+        -0.05,
+        0.0,
+        0.05,
+        0.1,
+        0.2
+      ],
+      "daily_decisions": 96,
+      "run_states": 49,
+      "terminal_relative_deviation": -0.0014839958869831951,
+      "value_at_grid_initial": 393270.01080368395
+    }
+  ],
+  "elapsed_s": 0.2190000000409782,
+  "day_count": 1,
+  "needs_dynamic_replay": true,
+  "heat_reference": "command proxy; actual source enthalpy and pump electricity reported separately after replay"
+}

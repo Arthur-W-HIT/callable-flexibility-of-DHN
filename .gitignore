@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+regenerated/
+dispatch/Reproduced_*/
+dispatch/Portable_*/
+portable_figures/regenerated/
+portable_*_reproduction.json

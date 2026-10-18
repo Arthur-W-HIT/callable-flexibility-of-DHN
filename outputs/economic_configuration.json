@@ -1,0 +1,189 @@
+{
+  "cfg": {
+    "projectDir": "source-file/Storage_Thermo_Theory",
+    "boundaryFile": "source-file/boundary_result_table_cap_corrected.csv",
+    "baselineFile": "source-file/fixed_supply_flow_baseline_1C.csv",
+    "weatherFile": "source-file/open-meteo-41.79N123.39E50m.csv",
+    "powerFile": "source-file/power_price_hourly_shanxi_20240108_0114.csv",
+    "regionFile": "source-file/feasible_region_P_Qh_v1.mat",
+    "cityName": "Shenyang",
+    "weatherTargetStart": "2025-01-08 00:00:00",
+    "nDay": 7,
+    "dt_h": 0.25,
+    "stepsPerHour": 4,
+    "stepsPerDay": 96,
+    "nStep": 672,
+    "blockLength_h": 6,
+    "blockLengthStep": 24,
+    "prototypeDHNCapacity_MWth": 80,
+    "nParallelSubnetwork": 5,
+    "dispatchDHNCapacity_MWth": 400,
+    "stateResidualAfter6h": 0.1,
+    "rho": 0.9085175756516868,
+    "nZGrid": 81,
+    "stateSlack": 1.05,
+    "stateSafetyMargin": 0.9,
+    "terminalPenalty_CNY": 4000,
+    "maxSameDirRun_min": 120,
+    "maxSameDirRunStep": 8,
+    "actionRatioGrid": [
+      -0.2,
+      -0.1,
+      -0.05,
+      0,
+      0.05,
+      0.1,
+      0.2
+    ],
+    "blockActionFractionGrid": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.75,
+      1
+    ],
+    "blockActionDur_min": [
+      60,
+      120,
+      180
+    ],
+    "coalPrice_CNY_per_GJ": 32,
+    "AGC_availability_CNY_per_h": 20,
+    "AGC_energy_CNY_per_MWh": 120,
+    "auxElec_price_CNY_per_MWh": 320,
+    "pumpExtraMW_full": 0.35,
+    "wearCost_full": 300,
+    "flexQuadraticCost_full": 2500,
+    "P_hr": [
+      90,
+      120,
+      150,
+      225,
+      300,
+      317.2735,
+      321.2781
+    ],
+    "HR_hr": [
+      9485.1,
+      8993.3,
+      8657.2,
+      8297.7,
+      8110,
+      8114.8,
+      8118.3
+    ],
+    "nUnit": 2,
+    "heatShare": [
+      0.5,
+      0.5
+    ],
+    "unit2QhScale": 0.98,
+    "unit2PmaxScale": 0.97,
+    "unit2PminScale": 1.02,
+    "unit2HeatRateScale": 1.015,
+    "unit2FlexCostScale": 1.05,
+    "qrefPolicy": "fixed_baseline_80mwx5",
+    "QrefIntercept_MWth": 200,
+    "QrefSlope_MWth_per_C": -10,
+    "QrefMin_MWth": 200,
+    "QrefMax_MWth": 400,
+    "enableServiceBand": true,
+    "serviceFloorColdTout_C": -14,
+    "serviceFloorMildTout_C": -10,
+    "serviceFloorColdFrac": 0.95,
+    "serviceFloorMildFrac": 0.93,
+    "serviceFloorWarmFrac": 0.9,
+    "serviceCeilingColdFrac": 1.05,
+    "serviceCeilingMildFrac": 1.07,
+    "serviceCeilingWarmFrac": 1.1,
+    "outsideAmbientPolicy": "clip_to_scanned_range",
+    "priceUpsamplePolicy": "hourly_hold",
+    "weatherUpsamplePolicy": "linear_15min",
+    "stateInjectionMode": "seasonal_exact",
+    "enableReferenceShift": true,
+    "refShiftWeight": 1,
+    "enableTotalEffectiveBound": true,
+    "terminalTolerance": 0.02,
+    "gammaUnder": 0.1,
+    "gammaOver": 0.1,
+    "tauWindow_min": 360,
+    "internalStep_min": 15,
+    "parameterStatus": "Historical coefficients retained; terminal/rolling tolerances explicitly fixed for controlled R1 experiments."
+  },
+  "plant": {
+    "units": [
+      {
+        "Qh_upper": [
+          0,
+          71.3564407355365,
+          140.91492736262524,
+          207.47394410272102,
+          267.0777777777777
+        ],
+        "P_upper": [
+          320.81553,
+          304.29712,
+          288.1894,
+          272.99429,
+          252.87103
+        ],
+        "Qh_lower": [
+          0,
+          71.3564407355365,
+          140.91492736262524,
+          207.47394410272102,
+          267.0777777777777
+        ],
+        "P_lower": [
+          120.35874,
+          120.35874,
+          120.35874,
+          126.61018,
+          160.37708
+        ],
+        "Qh_min": 0,
+        "Qh_max": 267.0777777777777
+      },
+      {
+        "Qh_upper": [
+          0,
+          69.92931192082577,
+          138.09662881537272,
+          203.3244652206666,
+          261.7362222222222
+        ],
+        "P_upper": [
+          311.1910641,
+          295.1682064,
+          279.54371799999996,
+          264.80446129999996,
+          245.2848991
+        ],
+        "Qh_lower": [
+          0,
+          69.92931192082577,
+          138.09662881537272,
+          203.3244652206666,
+          261.7362222222222
+        ],
+        "P_lower": [
+          122.7659148,
+          122.7659148,
+          122.7659148,
+          129.1423836,
+          163.58462160000002
+        ],
+        "Qh_min": 0,
+        "Qh_max": 261.7362222222222
+      }
+    ],
+    "heatShare": [
+      0.5,
+      0.5
+    ],
+    "Qh_min": 0,
+    "Qh_max": 523.4724444444444
+  }
+}

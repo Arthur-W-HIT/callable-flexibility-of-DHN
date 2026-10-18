@@ -1,0 +1,90 @@
+[
+  {
+    "figure": 3,
+    "stem": "fixed_supply_flow_baseline_1c_diagnostic",
+    "program": "redraw_fig3_baseline_operating_line.py",
+    "function": "main",
+    "original_program_sha256": "744276e54cf884999079e6b71e067f5a14e595ca958d493668095b3b986a2f22",
+    "packaged_program_sha256": "8f224c37277bb784fbb1bfa68508be9f4f36a8c2f4096a99b72c61270c644b58"
+  },
+  {
+    "figure": 4,
+    "stem": "action_block_response_and_recovery_bars",
+    "program": "redraw_fig4_action_block_response.py",
+    "function": "main",
+    "original_program_sha256": "17405a40db8a1a6d069f0e853496a946829c004a349cac18b256afbdc05cd428",
+    "packaged_program_sha256": "37b9bfdb8e6a70ff814f4b4c49a50cdc480f42bdce8a57c73458f4a05dd8daf4"
+  },
+  {
+    "figure": 5,
+    "stem": "corrected_supply_temperature_boundary_80MWx5",
+    "program": "redraw_fig5a_supply_temperature_boundary.py",
+    "function": "main",
+    "original_program_sha256": "60907ebd1741554fb787f349453a811e5340583c31d24c81dcfb61d0952a9fb4",
+    "packaged_program_sha256": "725ce1af9f7c0263e0471ad91e9bdcc077d73435f176514b59c945152a14b775"
+  },
+  {
+    "figure": 6,
+    "stem": "corrected_power_boundary_80MWx5",
+    "program": "redraw_fig5_power_boundary.py",
+    "function": "main",
+    "original_program_sha256": "08d82507ccdc32e871429b7108b2efc4f08e2be98ffec877673386ce4f17e999",
+    "packaged_program_sha256": "cd506e0994045cf647e224cf7df8e34a4fbd23e7e05a37d320d62da1946ac56d"
+  },
+  {
+    "figure": 7,
+    "stem": "corrected_energy_boundary_80MWx5",
+    "program": "redraw_fig6_energy_boundary.py",
+    "function": "main",
+    "original_program_sha256": "99147ab33902423deafc49669bf0746ce0d2ac5fd9e283e8150020d4501ddb99",
+    "packaged_program_sha256": "b07db1557d0283a41a75b828903b8fd93936a56a2ce2892ba0efd40f10608163"
+  },
+  {
+    "figure": 8,
+    "stem": "curve_signed_boundary_vs_duration_selected_ambient",
+    "program": "redraw_remaining_result_figures.py",
+    "function": "redraw_duration_boundary",
+    "original_program_sha256": "bd3b292d447e98b4b636545934818e61f257b630a3de72c4cee13a53ced99064",
+    "packaged_program_sha256": "c57cf54d31688c303cf76499fcd9e84a7922b80216d1f08d76b4e1d3ae968daa"
+  },
+  {
+    "figure": 9,
+    "stem": "supply_temperature_cap_filter",
+    "program": "run_supplement_figures.py",
+    "function": "plot_boundary_filter",
+    "original_program_sha256": "3edbde9a5ff44898c65a0590ec4659dc444ea34f501658324875982a08bc48a7",
+    "packaged_program_sha256": "6f0b44caeae036140b4b5f0e20f5ebe7be4be7b90524a7392b9a61a483e1e6fd"
+  },
+  {
+    "figure": 11,
+    "stem": "weekly_dispatch_and_occupancy_by_step",
+    "program": "redraw_remaining_result_figures.py",
+    "function": "redraw_weekly_dispatch_and_occupancy",
+    "original_program_sha256": "bd3b292d447e98b4b636545934818e61f257b630a3de72c4cee13a53ced99064",
+    "packaged_program_sha256": "c57cf54d31688c303cf76499fcd9e84a7922b80216d1f08d76b4e1d3ae968daa"
+  },
+  {
+    "figure": 12,
+    "stem": "occupancy_state_ablation_diagnostic",
+    "program": "run_supplement_figures.py",
+    "function": "plot_occupancy_ablation",
+    "original_program_sha256": "3edbde9a5ff44898c65a0590ec4659dc444ea34f501658324875982a08bc48a7",
+    "packaged_program_sha256": "6f0b44caeae036140b4b5f0e20f5ebe7be4be7b90524a7392b9a61a483e1e6fd"
+  },
+  {
+    "figure": 13,
+    "stem": "pump_cost_and_price_sensitivity",
+    "program": "redraw_remaining_result_figures.py",
+    "function": "redraw_pump_cost_and_sensitivity",
+    "original_program_sha256": "bd3b292d447e98b4b636545934818e61f257b630a3de72c4cee13a53ced99064",
+    "packaged_program_sha256": "c57cf54d31688c303cf76499fcd9e84a7922b80216d1f08d76b4e1d3ae968daa"
+  },
+  {
+    "figure": 14,
+    "stem": "fullseason_replay_and_room_deviation",
+    "program": "redraw_fig13_fullseason_three_panel.py",
+    "function": "main",
+    "original_program_sha256": "bd0d6edf69465a5b34cd2243bcc61b4c4fede8c1e6fa77e87f43e8cc7527ec7d",
+    "packaged_program_sha256": "b204e7c827b1fad0a1bc36230182f31994e145f1194e482a907d369369cf6859"
+  }
+]

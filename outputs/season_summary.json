@@ -1,0 +1,14 @@
+{
+  "days": 112,
+  "steps": 10752,
+  "N": 5,
+  "pumps": 10,
+  "NoFlex_pump_MWh": 4094.0727153185235,
+  "Service15_pump_MWh": 7731.323752221537,
+  "incremental_pump_MWh": 3637.2510369030133,
+  "NoFlex_heat_MWh": 719254.715242751,
+  "Service15_heat_MWh": 701202.0995316466,
+  "service_min_room_C": 17.356525522578977,
+  "state_bounds_verified": true,
+  "original_archived_period": "112days, original prescribed price series retained"
+}
